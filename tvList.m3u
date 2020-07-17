@@ -82,7 +82,8 @@ http://103.141.66.36/bpk-tv/10009/default/index.m3u8
 http://103.205.133.19/hls/banglavision.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="Bangladeshi TV", Channel I HD
-http://43.230.123.21:8080/live/chi.m3u8
+http://103.141.66.36/bpk-tv/10026/default/index.m3u8
+#http://43.230.123.21:8080/live/chi.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangladeshi TV", My TV
 http://103.141.66.36/bpk-tv/10333/default/index.m3u8
@@ -119,7 +120,8 @@ https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 http://103.141.66.36/bpk-tv/10030/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="News", Jamuna TV
-http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+http://103.141.66.36/bpk-tv/10037/default/index.m3u8
+#http://103.214.202.218:8081/live/jamuna/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="News", Channel 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
