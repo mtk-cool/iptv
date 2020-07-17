@@ -101,8 +101,7 @@ http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
 http://103.141.66.36/bpk-tv/10010/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News", Ekattor TV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/105.m3u8
-#https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8
 #http://43.230.123.21:80/live/ekattor1.m3u8
 #http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
@@ -115,7 +114,8 @@ http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 http://43.230.123.21:8080/live/dbc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News", Independent TV
-http://103.214.202.218:8081/live/independent/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
+#http://103.214.202.218:8081/live/independent/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV HQ
 https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
 
@@ -171,10 +171,11 @@ http://103.141.66.36/bpk-tv/10336/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla",Jalsha Movies
-https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
+#https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian Bangla",Zee Bangla Cinema
-http://43.230.123.21:8080/live/zee-cinema-bangla.m3u8
+http://103.141.66.36/bpk-tv/10263/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQn6b-aH6MhLdrr4T1GUN5bk4NIJuWAdJ6av-8ug_S4C80dTZwW&usqp=CAyyU" group-title="Indian Bangla",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
