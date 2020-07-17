@@ -10,7 +10,7 @@ https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 http://103.141.66.36/bpk-tv/10335/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangladeshi TV", Sangsad TV
-http://103.141.66.36/bpk-tv/10036/default/index.m3u8
+#http://103.141.66.36/bpk-tv/10036/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/IEDCR_Logo.jpeg" group-title="Bangladeshi TV",IEDCR Live
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
