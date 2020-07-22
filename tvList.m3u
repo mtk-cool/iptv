@@ -87,6 +87,13 @@ http://103.141.66.36/bpk-tv/10333/default/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="Islamic",Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/402/999/png-transparent-iqraa-television-channel-saudi-arabia-live-television-iqra-television-text-logo-thumbnail.png" group-title="Islamic",Iqra TV UK
+https://bdsl.jagobd.com:444/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.azan.tv/assets/importent_images/logo.png" group-title="Islamic",Azan TV HD
+https://bdsl.jagobd.com:444/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/live-orgin/azantv.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Islamic", Channel S (UK)
 http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/ATN_Islamic_TV_Logo.png" group-title="Islamic",ATN Islamic TV
@@ -134,6 +141,8 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladeshi TV", Gaan Bangla
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/15/4b/db154b8c7cf6fadef550c008efa8bb19.jpg", RTV Music
+https://bdsl.jagobd.com:444/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
 
 
@@ -289,8 +298,11 @@ http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZalVgZJccBSXMBGxag9FLvmL1F1SudYnOQh6NABeST5tRBFoJ&usqp=CAU" group-title="Indian (Hindi)",Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Picture
+http://103.141.66.36/bpk-tv/10190/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Picture HD
-http://103.205.133.19/hls/andpicture.m3u8
+http://103.205.133.19/hls/andpicture.m3u8?token=UxrkQpQWQzQtGgHYjiBKgA.m3u8
+
 
 
 
@@ -547,9 +559,14 @@ http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="Infotainment",History TV 18
 http://103.214.202.218:8081/live/history/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1555990853_h2.png" group-title="Infotainment",History 2 HD
+https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="Infotainment",History TV 18 HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0105000.png" group-title="Infotainment",Fox Life
+https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Infotainment",Nasa TV
+http://wowza-feed09-nasa.pluto.tv/feed09/ngrp:nasa_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Infotainment",Hum Masala
 http://103.141.66.36/bpk-tv/10240/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Infotainment",Living Foodz
@@ -591,8 +608,7 @@ https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTO6ZyVTRZlH_TGDzGomW27FmoT1A0LSNlGdhRK0sMgWGeyH0kQ&usqp=CAU" group-title="English",Romedy Now
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English", Colors Infinity HD
-http://43.230.123.21:8080/live/color-Infinity.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU" group-title="English",COMEDY CENTRAL HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
@@ -612,6 +628,8 @@ https://cdn-laos.workpoint.news/hd-warnertv_720/index.m3u8
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="Indian (Hindi)", Colors Infinity HD
+http://43.230.123.21:8080/live/color-Infinity.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Indian (Hindi)",Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="Indian (Hindi)",Zing HD
