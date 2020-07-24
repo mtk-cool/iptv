@@ -138,7 +138,8 @@ http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangladeshi TV", Gaan Bangla
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/db/15/4b/db154b8c7cf6fadef550c008efa8bb19.jpg", RTV Music
-https://bdsl.jagobd.com:444/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+#https://bdsl.jagobd.com:444/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
 
 
@@ -268,9 +269,6 @@ https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian (Hindi)",Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="Indian (Hindi)",Sony Max HD
-http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian (Hindi)",Sony Max 2
 http://43.230.123.21:8080/live/sony-max-2.m3u8
@@ -429,8 +427,7 @@ https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU" group-title="Kids-Toon",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids-Toon",Pogo
-http://202.163.117.6:9981/stream/channelid/872564616
-#http://45.120.188.207:80/0.ts
+http://45.120.188.207:80/0.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="Kids-Toon",Cartoon Network HD+
 http://iptv.kitv.live:1935/live/Shari/MTV-P/170.m3u8
 
@@ -631,3 +628,31 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="Indian (Hindi)",8X Music
 http://playlive.goonj.pk/8xmweb_480p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 1 HD
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM_xmA1eY8Q-M1S53JkQLfrXZMA3RutLvtAr3rAJes4YKiu-ch&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 3 HD
+https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeKWaFFrNBn_t_yaNAhbjwMyVf2kWRU255iFgBThYwmyc18tI6&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 4 HD
+https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK3uKL_mAVf2rU6FyyyYoCdPUDT1Dr1pzBOJBMJKi8SniiotzR&usqp=CAU" tvg-shift="0" group-title="MBC", MBC 5 HD
+https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU"  group-title="MBC", MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Drama +" tvg-name="MBC Drama HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRUqehNiAhT_2J_eRAm3C_wVEA8vQpJrFnVL4umoLbwZZhMSaiJ&usqp=CAU" tvg-shift="0" group-title="MBC", MBC Drama HD
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzrBU8R-45edD6PGyPEFRphH1bFM-Kvjan05zOA0qDX2vVCv38&usqp=CAU" group-title="MBC", MBC Bollywood HD
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvuKoRfBD50KguLmn-vwlVciLCmixbmrU-jla9R1svjrxQhjT-&usqp=CAU" group-title="MBC", MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Iraq HD
+https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC MASR" tvg-name="MBC Masr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="MBC", MBC Masr HD
+https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
+#EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 HD" tvg-logo="https://i.pinimg.com/originals/01/3c/21/013c218c3ce9b3cfc883bdcdb121e5e6.png" tvg-shift="0" group-title="MBC", MBC Masr 2 HD
+https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="MBC", Wanasah HD
+https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
