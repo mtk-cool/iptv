@@ -201,9 +201,7 @@ http://103.141.66.36/bpk-tv/10191/default/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="StarSportsHD1.in" tvg-name="Star Sports HD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRR6e926aYq1NetlGGwg1simFjkrZ66Nk8zepX8QQtGpjCM2CaQ&usqp=CAU" ,Star Sports 1 HD
 http://43.230.123.21:8080/live/starsports-1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="StarSportsHD2.in" tvg-name="Star Sports HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" ,Star Sports 2
-http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id="StarSportsHD2.in" tvg-name="Star Sports HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" ,Star Sports 2 HD*
+#EXTINF:-1 group-title="Sports" tvg-id="StarSportsHD2.in" tvg-name="Star Sports HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM8NHYpUcWs5SkPWzQyuee6f0B7Hs5wPwin6dxsslvY75gZ1mL&usqp=CAU" ,Star Sports 2 HD
 http://43.230.123.21:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="StarSportsHD2.in" tvg-name="Star Sports HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" ,Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
@@ -405,6 +403,8 @@ https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:0 group-title="Kids-Toon" tvg-logo="https://i.imgur.com/xeanFZ7.png" tvg-logo-small="https://i.imgur.com/xeanFZ7.png" ,Aniplus
 http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9ko2DDM.jpg" group-title="ENGLISH MOVIES",The ShortFilms
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qp4snOO.jpg" group-title="MOVIE PLEX",KOLI 2.0 (2018)
