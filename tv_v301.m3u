@@ -298,9 +298,8 @@ http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#http://tv.ebox.live:8080/live/sonyten-1.m3u8
-
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Sports",Sony Ten 2 HD
