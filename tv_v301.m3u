@@ -100,8 +100,8 @@ http://103.141.66.36/bpk-tv/10037/default/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News", News 24 HD
-http://tv.ebox.live:8080/live/news24.m3u8
-#https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+#http://tv.ebox.live:8080/live/news24.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="News", Channel 24
 http://103.141.66.36/bpk-tv/10008/default/index.m3u8
@@ -298,8 +298,9 @@ http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#http://tv.ebox.live:8080/live/sonyten-1.m3u8
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+
 
 
 
