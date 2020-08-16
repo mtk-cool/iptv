@@ -630,7 +630,7 @@ https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
 https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="Foreign", Wanasah HD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/8/13/11/antv-television-channel-indonesia-logo-png-favpng-YkQ8VAFfD6QKdv61U8M1YMiMW.jpg",AnTV
+#EXTINF:-1 tvg-logo="https://img.favpng.com/8/13/11/antv-television-channel-indonesia-logo-png-favpng-YkQ8VAFfD6QKdv61U8M1YMiMW.jpg" group-title="Foreign",AnTV
 http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 
 
