@@ -74,11 +74,6 @@ http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.141.66.36/bpk-tv/10032/default/index.m3u8
 #EXTINF:-1 tvg-logo="https://media-eng.dhakatribune.com/uploads/2018/03/ATV-Logo.jpg" group-title="Bangla", Ananda TV
 http://103.141.66.36/bpk-tv/10258/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbEadTRu8VXSJ5cFBHFgBU3hSmQuUmMYv8pw&usqp=CAU" group-title="Bangla",Movies bangla
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://tbsnews.net/sites/default/files/styles/big_2/public/images/2020/03/17/coronavirus.jpg?itok=DUNpxPzF&timestamp=1584520624" group-title="Bangla",Corona Live
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dhakalive-low.stream/chunks.m3u8
-
 
 
 
@@ -108,8 +103,6 @@ https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="News", Channel 24
 https://itpolly.iptv.digijadoo.net/live/channel_24/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tbn24.com/images/logo.png" group-title="News", TBN 24
-http://fingerme.dg21bd.com/TBN24/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports HD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0kp4RAHaUo0i3hUgjQwzeDdzsVPqABJ3CbA&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://43.230.123.21:8080/live/starsports-1.m3u8
@@ -150,8 +143,7 @@ http://tv.ebox.live:8080/live/sonysix.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="Sports",Sky Sports Cricket
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTeetAODNQ5LdAXfBgm02fHoQfoUBnImvuEbnjGHfmGFj-bpOQx&usqp=CAU" group-title="Sports",Sky Sports Mix
-http://43.230.123.21:8080/live/Sky-Sports-Mix.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket
 http://43.230.123.21:8080/live/willow-cric.m3u8
@@ -196,21 +188,6 @@ http://45.126.83.51/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/340?cb=20140607174731" group-title="Sports",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e7pl2RXGDxc/hqdefault.jpg" group-title="Sports",Titas Tv
-http://182.48.69.162:1934/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports" group-title="Sports",Skynet Sports 1
-https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports" group-title="Sports",Skynet Sports 2
-https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports" group-title="Sports",Skynet Sports 3
-https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports" group-title="Sports",Skynet Sports 4
-https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports" group-title="Sports",Skynet Sports 5
-https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hjJLLtv.jpg?1" group-title="Sports" group-title="Sports",Skynet Sports 6
-https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
-
 
 
 
@@ -242,12 +219,7 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="Kids-Toon",EBS KIDS 
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtFP_IMNjRdhYJaZC6P-0GnpbgKDqD-HwTacmGeN4q5HhuIpUY&usqp=CAU" group-title="Kids-Toon", Hungama
-http://202.163.117.6:9981/stream/channelid/1357890196
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSZomY2Q955WLKZMSTCfRxwxTWZBEqTJSb_L38rmmTovuw3u-s3&usqp=CAU" group-title="Kids-Toon",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="Kids-Toon",Pogo
-http://45.120.188.207:80/0.ts
+
 
 
 
@@ -575,8 +547,6 @@ http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU" group-title="English",Star World (India)
 https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTC91iczMaHbur_QX-SQKCTccfjLmS7KX3V0JV37z8SH0maiGGd&usqp=CAU" group-title="English",MGM Sci-fi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English", Colors Infinity HD
 https://itpolly.iptv.digijadoo.net/live/colors_infinity/chunks.m3u8
 
