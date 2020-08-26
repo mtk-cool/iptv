@@ -15,11 +15,16 @@ https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangla", Gazi TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla", Maasranga HD
-https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="Bangla", Channel 9 HD
-https://itpolly.iptv.digijadoo.net/live/channel_9/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangla", Bijoy TV
-http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla", Bangla vision
+http://103.205.133.19/hls/banglavision.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla", My TV
+https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangla",Deepto TV HD
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
@@ -42,15 +47,10 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla", Nagorik TV
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangla", Bijoy TV
+http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangla", Mohona TV
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla", Bangla vision
-http://103.205.133.19/hls/banglavision.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla", My TV
-https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangla", BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
@@ -117,33 +117,35 @@ http://tv.ebox.live:8080/live/sonyten-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Sports",Sony Ten 2 HD
 http://43.230.123.21:8080/live/sonyten-2.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png" group-title="Sports",Sony Ten 3 HD
-http://tv.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3
 http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png" group-title="Sports",Sony Ten 3 HD
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
 http://103.205.133.14/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six
 http://tv.ebox.live:8080/live/sonysix.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="Sports",Sky Sports Cricket
-http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket
-http://43.230.123.21:8080/live/willow-cric.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsh86tb3FDqZx3B0zkNnjTeJk3RrIJvTlWhg&usqp=CAU" group-title="Sports",ESPN
-http://tv.ebox.live:8080/live/sonyespn.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 1 HD
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMiidFdBCwLcVM-HujrecYolN8G6BA2GdttIEUcVWWjZzbgr65&usqp=CAU" group-title="Sports",Bein Sports 2 HD
 http://43.230.123.21:8080/live/bein-sports-2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRktox4IoUgLNVPWvQ8COmEKgQzpIzs5RBDit9cVBKxQGJn4syC&usqp=CAU" group-title="Sports",Bein Sports 11 HD
 http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports",Willow cricket
+http://43.230.123.21:8080/live/willow-cric.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsh86tb3FDqZx3B0zkNnjTeJk3RrIJvTlWhg&usqp=CAU" group-title="Sports",ESPN
+http://tv.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1mO8A7byzOOMqaJ-4XqZBGjJ12Snq5TjmSPBpYwny2Jmc3X5t&usqp=CAU" group-title="Sports",Sky Sports Cricket
+http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports",Ptv Sports
 http://tv.ebox.live:8080/live/ptvsports.m3u8
@@ -286,10 +288,6 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Indian (Hindi)",Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Indian (Hindi)",Star Gold
-https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Indian (Hindi)",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian (Hindi)",Star Gold Select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Indian (Hindi)",Sony Max HD
@@ -300,6 +298,11 @@ http://43.230.123.21:8080/live/sony-max-2.m3u8
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Indian (Hindi)",Zee Cinema HD
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Indian (Hindi)",Star Gold
+https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Indian (Hindi)",Star Gold 2
+https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Picture HD
 http://103.205.133.19/hls/andpicture.m3u8?token=UxrkQpQWQzQtGgHYjiBKgA.m3u8
