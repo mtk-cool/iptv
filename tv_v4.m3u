@@ -85,7 +85,7 @@ http://103.205.133.14/hls/jamunatv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News", News 24 HD
-https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
+http://103.214.202.218:8081/live/news24-24/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1mFDQlU_tELMGmcMJefBlNHaCM-yZlV__nH39fEm4ftZ_alp4&usqp=CAU" group-title="News", Channel 24
@@ -528,3 +528,4 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 
 #EXTINF:-1, Junk
 #http://103.214.202.218:8081/live/somoy/chunks.m3u8 - Somoy TV
+#https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8 - News 24
