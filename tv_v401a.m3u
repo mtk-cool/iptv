@@ -394,7 +394,7 @@ https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Indian (Hindi)",Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.bestmediainfo.com/wp-content/uploads/2017/03/Star-Gold-Select-HD.jpg" group-title="Indian (Hindi)",Star Gold Select
-http://43.230.123.21:8080/live/star-gold-select.m3u8
+https://watchindia.net:8443/live/53364/15983/784.ts
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Indian (Hindi)",Sony Max HD
 https://watchindia.net:8443/live/53364/15983/788.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian (Hindi)",Sony Max 2
@@ -557,7 +557,8 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",Sony Pix HD
-http://tv.ebox.live:8080/live/sony-pix.m3u8
+https://watchindia.net:8443/live/53364/15983/2101.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
@@ -715,3 +716,5 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #http://103.214.202.218:8081/live/starsports1/chunks.m3u8 - sttr mv select
 #https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8- HUm masala
 #http://tv.ebox.live:8080/live/sony-max.m3u8 - SONY MAX HD
+#http://tv.ebox.live:8080/live/sony-pix.m3u8 sony pix
+#http://43.230.123.21:8080/live/star-gold-select.m3u8
