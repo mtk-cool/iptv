@@ -646,6 +646,16 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/340?cb=20140607174731" group-title="Foreign",KIX
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-1
+https://watchindia.net:8443/live/53364/15983/2097.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-2
+https://watchindia.net:8443/live/53364/15983/2098.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hEpwp2.png" group-title="SPORTS",BT Sports-3
+https://watchindia.net:8443/live/53364/15983/2099.ts
+#EXTINF:-1 tvg-logo="https://btsportbusiness.com/wp-content/themes/bt/images/why/4.png" group-title="SPORTS",BT Sports-4 ESPN
+https://watchindia.net:8443/live/53364/15983/2099.ts
+
+
 #EXTINF:-1, Junk
-https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8 - Somoy TV
+#https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8 - Somoy TV
 #https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8 - News 24
