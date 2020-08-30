@@ -456,7 +456,7 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Picture HD
-http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_711/PORTRAIT/2JCgo8eN.png" group-title="Indian (Hindi)",Enterr10 Movies
 https://edge01.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 
@@ -771,3 +771,4 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #http://tv.ebox.live:8080/live/sony-pix.m3u8 sony pix
 #http://43.230.123.21:8080/live/star-gold-select.m3u8
 #http://43.230.123.21:8080/live/sony-max-2.m3u8
+#http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8 -andpic
