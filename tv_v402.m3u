@@ -241,7 +241,7 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Hindi
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
+http://tv.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nicks-hd-plus-logo-300x300.jpg" tvg-id="Nickelodeon.in" group-title="Kids-Toon",Nick HD+
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
@@ -395,9 +395,6 @@ https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Indian (Hindi)",Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="Indian (Hindi)",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Picture HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
@@ -429,7 +426,7 @@ https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
 http://z5amshls.akamaized.net/smileusa/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian (Hindi)",Colors HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian (Hindi)",Colors
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%84%D8%A9_%D8%A8%D8%B1%D8%B3.png/revision/latest?cb=20170604044941" group-title="Indian (Hindi)",Colors
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 
 
@@ -480,12 +477,8 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="Indian (Hindi)",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="Indian (Hindi)",Music India
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="Indian (Hindi)",Zee ETC
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="Indian (Hindi)",Masti Music
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
+http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
 
 
 
@@ -595,10 +588,6 @@ http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="English",Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkftVC9noPJyNfISN8zrg2pMS58SYn6l3D4g&usqp=CAU" group-title="English",Hollywood HD
 http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
