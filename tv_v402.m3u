@@ -712,9 +712,9 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="MOVIE PLEX",The Windermere Children (2020)
+#EXTINF:7200 tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="MOVIE PLEX",The Windermere Children (2020)
 https://www.googleapis.com/drive/v3/files/1XA3mx1jXWnzmC459po-BwoVs9CupLKgL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="MOVIE PLEX",Alien Outbreak (2020)
+#EXTINF:50 tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="MOVIE PLEX",Alien Outbreak (2020)
 https://www.googleapis.com/drive/v3/files/14IjQLyHZ82JZyYwqTUeldnrOs6GiZjBd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v5KMe5E.jpg" group-title="MOVIE PLEX",Sonic the Hedgehog (2020)
 https://www.googleapis.com/drive/v3/files/1dAxT_vQXhlLPgkDVM3cxQPJ0TlsX7CVm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
