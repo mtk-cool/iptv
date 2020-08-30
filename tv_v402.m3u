@@ -12,7 +12,7 @@ https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangla",Ekushey TV
 https://edge01.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangla", Gazi TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_3lZ-3SjyKCjtm6yO_Hud67PWDfVlYQvpXMVEA_2NZnwkaip4&usqp=CAU" group-title="Bangla", Gazi TV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla", Maasranga HD
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
@@ -22,7 +22,7 @@ https://edge01.iptv.digijadoo.net/live/channel_9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Bangla", Bangla vision
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8?@amarnettv.live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla", My TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla", My TV HD
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
 
 
@@ -34,7 +34,7 @@ https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangla", RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Bangla", RTV HD
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="Bangla", Boishakhi TV
@@ -48,14 +48,14 @@ https://edge01.iptv.digijadoo.net/live/desh_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/নাগরিক_টিভি.svg/300px-নাগরিক_টিভি.svg.png" group-title="Bangla", Nagorik TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTOt3yWAtiThOoaXP24ItdKCDw3z7N8N2Ad84-t4W35b7tpvpVl&usqp=CAU" group-title="Bangla", Bijoy TV
-http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwpSPqiTQxA4tUFtfFSakY-i0NtIFevlyKRrWNc2niWcT1qG5K&usqp=CAU" group-title="Bangla", Mohona TV
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-X3GWMRvX6j0/Vtl5BL2Pu0I/AAAAAAAAAHo/8Sou_MnsF9w/s1600/BTV%2BLive.gif" group-title="Bangla", BTV World
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Bangla",BTV Chattogram
-https://gitlab.com/amarnettv/live/-/raw/master/btvctg.m3u8x
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla", Sangsad TV
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
@@ -87,14 +87,14 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://itpolly.iptv.digijadoo.net/live/atn_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News", Ekattor TV
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+http://175.41.46.15/10.flv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="News", DBC News
 http://43.230.123.21:8080/live/dbc.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV HQ
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="News", Somoy News
-http://103.214.202.218:8081/live/somoy/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="News", Jamuna TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
@@ -254,8 +254,6 @@ https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Bangla
 https://edge01.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Hindi
-http://tv.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nicks-hd-plus-logo-300x300.jpg" tvg-id="Nickelodeon.in" group-title="Kids-Toon",Nick HD+
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
@@ -277,6 +275,9 @@ https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJrxx2YxM1UzdzzzJ9Sxi9QIfGaU_-KKqF2gVyiDUyi-mS8SVl&usqp=CAU" group-title="Kids-Toon", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Hindi
+http://tv.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="Kids-Toon", MBC 3 HD
 https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
 #EXTINF:-1 tvg-logo="https://f1.media.brightcove.com/8/1997976452001/1997976452001_4620262174001_TCTKids-1280x720.jpg?pubId=1997976452001&videoId=4931639474001" group-title="Kids-Toon",TCT Kids
@@ -309,6 +310,8 @@ http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
 http://tv.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science [ENGLISH]
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Documentary",Discovery Turbo
@@ -327,7 +330,7 @@ https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Documentary",TLC HD 
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Documentary",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Documentary",TLC (Hindi)
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0105000.png" group-title="Documentary",Fox Life
 https://edge01.iptv.digijadoo.net/live/fox_life/playlist.m3u8
@@ -706,4 +709,5 @@ http://45.126.83.51/uq2663/h/h07/01.m3u8
 
 #EXTINF:-1, Junk
 #https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8 - Somoy TV
+#http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8 - News 24
