@@ -400,12 +400,13 @@ http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Indian (Hindi)",Sony Max HD
 https://watchindia.net:8443/live/53364/15983/788.ts
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_298/ic_logo_sony_MaxHD.png" group-title="Indian (Hindi)",Sony Max HD*
-http://tv.ebox.live:8080/live/sony-max.m3u8 - SONY MAX HD
+http://tv.ebox.live:8080/live/sony-max.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="Indian (Hindi)",Sony Max 2
-http://43.230.123.21:8080/live/sony-max-2.m3u8
+https://watchindia.net:8443/live/53364/15983/2024.ts
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="Indian (Hindi)",SONY WAH
 http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
 
@@ -728,3 +729,4 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #http://tv.ebox.live:8080/live/sony-max.m3u8 - SONY MAX HD
 #http://tv.ebox.live:8080/live/sony-pix.m3u8 sony pix
 #http://43.230.123.21:8080/live/star-gold-select.m3u8
+#http://43.230.123.21:8080/live/sony-max-2.m3u8
