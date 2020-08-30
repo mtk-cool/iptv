@@ -246,7 +246,7 @@ http://tv.ebox.live:8080/live/nick.m3u8
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids-Toon",CARTOON NETWORK
-http://45.249.187.238:8081/hls/new14.m3u8
+http://starshare.live:8080/live/vip216/64587929/8.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids-Toon",CARTOON NETWORK HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids-Toon",Discovery Kids
