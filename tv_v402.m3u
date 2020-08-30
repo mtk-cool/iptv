@@ -304,8 +304,7 @@ https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
 https://watchindia.net:8443/live/53364/15983/789.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="Documentary",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet
-http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD
@@ -544,12 +543,22 @@ http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NL0nsTH/Itv.jpg" group-title="Islamic",ITV USA
 http://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bug9dU.png" group-title="Islamic",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="Islamic",CHANNEL S [UK]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3KDVQiO.jpg" group-title="Islamic",Al Dawah
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dawah-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Islamic",Quran TV
 https://itpolly.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="Islamic",Sunna TV
 https://itpolly.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="Islamic",ATN Islam
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ksp29FD.jpg" group-title="Islamic",Iqra Bangla TV
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iqrabanglatvoffice.stream/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" group-title="Islamic",Azan TV
+http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/azantv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dstreamone.com/madnitv/urdu/madniurdu.jpg" group-title="Islamic",Madani TV Bangla
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madanitvbangla.stream/live-orgin/madanitvbangla.stream/chunks.m3u8
 
