@@ -349,21 +349,16 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian (Bangla)",Zee Bangla
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="Indian (Bangla)",Zee Bangla HD
-http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest/scale-to-width-down/340?cb=20191203094754" group-title="Indian (Bangla)",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian (Bangla)",Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian (Bangla)",Zee Bangla Cinema
-http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest/scale-to-width-down/340?cb=20190806073703" group-title="Indian (Bangla)",Jalsha Movies HD
 http://tv.ebox.live:8080/live/star-jalsha-movies.m3u8
 
@@ -513,7 +508,7 @@ https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Indian (Hindi)",MTV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+https://watchindia.net:8443/live/53364/15983/825.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Indian (Hindi)",MTV Beats HD
 https://watchindia.net:8443/live/53364/15983/786.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Indian (Hindi)",Zoom
@@ -521,7 +516,7 @@ https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="Indian (Hindi)",Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="Indian (Hindi)",B4U Music
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
+https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU" group-title="Indian (Hindi)",Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="Indian (Hindi)",9XM
@@ -530,7 +525,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Mastiii_Sabgroup.png/revision/latest?cb=20190204154449" group-title="Indian (Hindi)",Masti Music
-http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8?@amarnettv.live
 
 
 
@@ -1231,6 +1226,7 @@ https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.
 #http://103.214.202.218:8081/live/somoy/chunks.m3u8
 #https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8 - News 24
 
+#http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8 - zee bangla cinema
 
 
 
