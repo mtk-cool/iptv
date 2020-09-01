@@ -61,12 +61,10 @@ https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Bangla",MY CINEMA
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="Bangla",Movie Bangla TV
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/n8xwHts937U/hqdefault.jpg" group-title="Bangla",Movie Bangla TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Bangla",Khusboo Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Bangla", ATN Music
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8?@amarnettv.live
 
@@ -152,7 +150,6 @@ http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports HD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0kp4RAHaUo0i3hUgjQwzeDdzsVPqABJ3CbA&usqp=CAU" group-title="Sports",Star Sports 1 HD
 http://43.230.123.21:8080/live/starsports-1.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 HD HINDI
 https://watchindia.net:8443/live/66440/46279/1072.ts
 
@@ -162,21 +159,19 @@ https://watchindia.net:8443/live/66440/46279/1069.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/92/6f/e8/926fe88a0f2ba9eb8eca10177c4b9860.png" group-title="Sports",Sony Ten 1 HD
 https://watchindia.net:8443/live/66440/46279/1756.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1
-http://tv.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2 HD
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Sports",Sony Ten 2
 http://43.230.123.21:8080/live/sonyten-2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
-https://watchindia.net:8443/live/66440/46279/1758.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="Sports",Sony Ten 2 HD
+http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png" group-title="Sports",Sony Ten 3
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="Sports",Sony Ten 3 HD
+https://watchindia.net:8443/live/66440/46279/1758.ts
 
 
 
@@ -216,10 +211,14 @@ http://103.49.168.172:8081/ebox/espn/chunks.m3u8
 http://43.230.123.21:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="Sports",Sky Sports EPL
 https://watchindia.net:8443/live/66440/46279/2092.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="Sports",Sky Sports Football
+https://watchindia.net:8443/live/66440/46279/2093.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="Sports",Sky Sports Main Event
 https://watchindia.net:8443/live/66440/46279/2091.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="Sports",Sky Sports Arena
 https://watchindia.net:8443/live/66440/46279/2095.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="Sports",Sky Sports F1
+https://watchindia.net:8443/live/66440/46279/2094.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="Sports",Sky Sports Golf
 https://watchindia.net:8443/live/66440/46279/2096.ts
 
@@ -270,8 +269,6 @@ http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/9/7/18/boxing-combat-sport-sports-entertainment-television-channel-png-favpng-SFeQy495p7BAF1ciSdHgmsb8m.jpg" group-title="Sports",Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQan9sYoSXeK_Fs-gGKeC-GF5eWrezQHrAkqYZSNcpNdusmyIfJ&usqp=CAU" group-title="Sports",D Sports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 
 
@@ -381,7 +378,8 @@ http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="Indian (Bangla)",Zee Bangla
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/49/Star_Jalsha_2012.png/revision/latest/scale-to-width-down/340?cb=20191203094754" group-title="Indian (Bangla)",Star Jalsha HD
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian (Bangla)",Sony Aath
