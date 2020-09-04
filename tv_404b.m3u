@@ -128,16 +128,14 @@ http://43.230.123.21:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6tKGIbFwRkp6-mPHONnKs7Z3z1gn0awHUZsF14CHLfGIs-q4J&usqp=CAU" group-title="Sports",Star Sports 3
 http://43.230.123.21:8080/live/starsports-3.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1
-http://103.205.133.19/hls/ten1.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="Sports",Sony Ten 1 HD
 http://43.230.123.21:8080/live/sonyten-1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Sports",Sony Ten 2 HD
 http://43.230.123.21:8080/live/sonyten-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Sports",Sony Ten 2 HD*
-http://103.205.133.19/hls/ten2.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e4/d7/32/e4d73275b3532613c07d5883b59e1803.png" group-title="Sports",Sony Ten 3
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
@@ -251,7 +249,7 @@ https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Hindi
 http://tv.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJLbp15mPItJU-dAjbA-6H5oFuabf95FWfXSFGDUeOrEFQwH_w&usqp=CAU" tvg-shift="0" group-title="Kids-Toon", MBC 3 HD
-https://shls-mbc3-prod.shahid.net/mbc3-prod_2.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod_4.m3u8
 #EXTINF:-1 tvg-logo="https://f1.media.brightcove.com/8/1997976452001/1997976452001_4620262174001_TCTKids-1280x720.jpg?pubId=1997976452001&videoId=4931639474001" group-title="Kids-Toon",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJxV0HmvhvqHlkg3jcc5lPkMAfn6-Myf_Jnyew=s900-c-k-c0xffffffff-no-rj-mo" group-title="Kids-Toon",Aniplus
@@ -563,9 +561,9 @@ http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTM_xmA1eY8Q-M1S53JkQLfrXZMA3RutLvtAr3rAJes4YKiu-ch&usqp=CAU" tvg-shift="0" group-title="English", MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod_4.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU"  group-title="English", MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_4.m3u8
 #EXTINF:-1 tvg-id="MBC MAX" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQvuKoRfBD50KguLmn-vwlVciLCmixbmrU-jla9R1svjrxQhjT-&usqp=CAU" group-title="English", MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="English",Lotus Macau
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="English",FOX Movies HD
@@ -658,19 +656,19 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" group-title="Foreign",PPTV HD36
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRUe4I-m4F4gjXSHIYvvFBneXNtnACjD5eyijw7eOtqbaugrZo&usqp=CAU" tvg-shift="0" group-title="Foreign", MBC 1 HD
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_2.m3u8
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_4.m3u8
 
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeKWaFFrNBn_t_yaNAhbjwMyVf2kWRU255iFgBThYwmyc18tI6&usqp=CAU" tvg-shift="0" group-title="Foreign", MBC 4 HD
-https://shls-mbc4-prod.shahid.net/mbc4-prod_2.m3u8
+https://shls-mbc4-prod.shahid.net/mbc4-prod_4.m3u8
 #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTK3uKL_mAVf2rU6FyyyYoCdPUDT1Dr1pzBOJBMJKi8SniiotzR&usqp=CAU" tvg-shift="0" group-title="Foreign", MBC 5 HD
-https://shls-mbc5-prod.shahid.net/mbc5-prod_2.m3u8
+https://shls-mbc5-prod.shahid.net/mbc5-prod_4.m3u8
 
 #EXTINF:-1 tvg-id="MBC Iraq" tvg-name="MBC Iraq HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="Foreign", MBC Iraq HD
-https://shls-iraq-prod.shahid.net/iraq-prod_2.m3u8
+https://shls-iraq-prod.shahid.net/iraq-prod_4.m3u8
 #EXTINF:-1 tvg-id="MBC MASR" tvg-name="MBC Masr HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" tvg-shift="0" group-title="Foreign", MBC Masr HD
-https://shls-masr-prod.shahid.net/masr-prod_2.m3u8
+https://shls-masr-prod.shahid.net/masr-prod_4.m3u8
 #EXTINF:-1 tvg-id="MBC MASR 2" tvg-name="MBC Masr 2 HD" tvg-logo="https://i.pinimg.com/originals/01/3c/21/013c218c3ce9b3cfc883bdcdb121e5e6.png" tvg-shift="0" group-title="Foreign", MBC Masr 2 HD
-https://shls-masr2-prod.shahid.net/masr2-prod_2.m3u8
+https://shls-masr2-prod.shahid.net/masr2-prod_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wanasah HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZCyh1-n0fsc_ULmq8qX4Y6rMrqCefbGG_WLj81vtzqeiJ2GsB&usqp=CAU" tvg-shift="0" group-title="Foreign", Wanasah HD
 https://shls-wanasah-prod.shahid.net/wanasah-prod_2.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/8/13/11/antv-television-channel-indonesia-logo-png-favpng-YkQ8VAFfD6QKdv61U8M1YMiMW.jpg" group-title="Foreign",AnTV
