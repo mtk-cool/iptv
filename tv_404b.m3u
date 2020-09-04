@@ -398,7 +398,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunk
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian (Hindi)",MANORANJAN MOVIES
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Indian (Hindi)",Manoranjan Movies
 https://edge01.iptv.digijadoo.net/live/manoranjan_movies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vgwu01lpb7imo8l/Shemaroo.png" group-title="Indian (Hindi)",Shemaroo TV
@@ -580,12 +580,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="English",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkftVC9noPJyNfISN8zrg2pMS58SYn6l3D4g&usqp=CAU" group-title="English",Hollywood HD
-http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0V3GSofLci1J3cqr_LrUeTXbnmN6lZrH3Lw&usqp=CAU" group-title="English",Cinema World
-http://45.126.83.51/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="English",THRILL HD
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/axn.png" group-title="English",AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
@@ -612,6 +606,12 @@ https://edge01.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XNGvRJ6.jpg" group-title="English",CBBC
 http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0V3GSofLci1J3cqr_LrUeTXbnmN6lZrH3Lw&usqp=CAU" group-title="English",Cinema World
+http://45.126.83.51/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="English",THRILL HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWnecuO.jpg" group-title="English",TV 1000 HD
 http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbjBQFw.jpg" group-title="English",TV 1000 Action HD
