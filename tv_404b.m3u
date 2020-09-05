@@ -421,9 +421,9 @@ http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_711/PORTRAIT/2JCgo8eN.png" group-title="Indian (Hindi)",Enterr10 Movies
 http://robi.iptv.digijadoo.net/live/enter_ten/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Pictures
-https://l.facebook.com/l.php?u=http%3A%2F%2Fmhdtvworld.net%3A80%2Fxyz%2Fzee5m3u8.m3u8%3Fc%3Dhttp%253A%252F%252Fz5ams.akamaized.net%252Fandpicssd%252Findex.m3u8%26fbclid%3DIwAR2-vHDA3_mGgzRCw5yWymoKkxLyuJUmHCgnIiyumzrlCq6AWo4QhYhLMNk&h=AT3aoRlqbYu13Zd9mrdp3unSOaS3iw5AqKK6gnVXRiddA2682D3oxRyS-as9jMUnruEjYNpTmUTQSUuiorDez8PWAzjufbB4PLwcGTbp4zu4T0wWPVpmzDAMQ0ctQurmL55NPTRh1Tc
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Pictures HD
-https://l.facebook.com/l.php?u=http%3A%2F%2Fmhdtvworld.net%3A80%2Fxyz%2Fzee5m3u8.m3u8%3Fc%3Dhttp%253A%252F%252Fz5ams.akamaized.net%252Fandpicshd%252Findex.m3u8%26fbclid%3DIwAR2-vHDA3_mGgzRCw5yWymoKkxLyuJUmHCgnIiyumzrlCq6AWo4QhYhLMNk&h=AT3aoRlqbYu13Zd9mrdp3unSOaS3iw5AqKK6gnVXRiddA2682D3oxRyS-as9jMUnruEjYNpTmUTQSUuiorDez8PWAzjufbB4PLwcGTbp4zu4T0wWPVpmzDAMQ0ctQurmL55NPTRh1Tc
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/%26xplor_HD_2019.svg/revision/latest/top-crop/width/300/height/300?cb=20200430142356" group-title="Indian (Hindi)",&Xplor HD
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/143805
 
