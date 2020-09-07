@@ -397,7 +397,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Indian (Bangla)",Orange Bangla
 https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian (Bangla)",Ruposhi Bangla
-http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
+http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQn6b-aH6MhLdrr4T1GUN5bk4NIJuWAdJ6av-8ug_S4C80dTZwW&usqp=CAyyU" group-title="Indian (Bangla)",Tollywood TV
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
@@ -640,7 +640,7 @@ http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8?@amarnettv.live
 http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="English",Hollywood TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6QjBZFN5vuytPHxoefo9LCjIQH1Ef4VsKFQ&usqp=CAU" group-title="English",Hollywood TV
 http://148.69.189.5:8000/play/hollw/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTBpaMDS1hDrgn7fkhQ_-2jt2DI0KyMWbNnL3BSzMOdCIcxO7PY&usqp=CAU" group-title="English",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
@@ -703,11 +703,11 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a/
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1464128411/1149.png" group-title="English",BOX HITS
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zsoueaz2vydig4u/WMUSIC.png" group-title="English",The Box
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="English",The Box
 http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="English",Channel [V]
 http://103.47.132.164/PLTV/88888888/224/3221227133/1.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zsoueaz2vydig4u/WMUSIC.png" group-title="English",CMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="English",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
 
 
@@ -752,25 +752,3 @@ http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmvMUq6.png" group-title="Foreign",DMAX					
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
-
-#EXTINF:-1, Junk
-#https://itpolly.iptv.digijadoo.net/live/somoy_news/chunks.m3u8 - Somoy TV
-#http://103.214.202.218:8081/live/somoy/chunks.m3u8
-#https://itpolly.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8 - News 24
-
-#http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8 - zee bangla cinema
-#http://103.214.202.218:8081/live/starsports1/chunks.m3u8 - sttr mv select
-#http://robi.iptv.digijadoo.net/live/hum_masala/chunks.m3u8- HUm masala
-#http://tv.ebox.live:8080/live/sony-max.m3u8 - SONY MAX HD
-#http://tv.ebox.live:8080/live/sony-pix.m3u8 sony pix
-#http://43.230.123.21:8080/live/star-gold-select.m3u8
-#http://43.230.123.21:8080/live/sony-max-2.m3u8
-#Disney Junior
-#SkySports
-#BT Sports
-#Sony BBC Earth
-#UTV Movies/HD
-#http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8 -andpic
-#PTV-http://tv.ebox.live:8080/live/ptvsports.m3u8
-#http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8 - maasranga
-#http://43.230.123.21:8080/live/maasranga.m3u8
