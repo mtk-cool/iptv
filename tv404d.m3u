@@ -274,13 +274,6 @@ http://45.126.83.51/dr9445/h/h02/index.m3u8
 http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAuAuvB.png" group-title="Kids-Toon",EBS KIDS 
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Bangla
-http://robi.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="Kids-Toon",Sonic Bangla
-http://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="Kids-Toon",Nick Jr
-http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Documentary",NAT GEO HD (Bangla)
@@ -326,8 +319,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 http://103.47.132.165/PLTV/88888888/224/3221227113/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Documentary",TLC (Hindi)
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0105000.png" group-title="Documentary",Fox Life
-http://robi.iptv.digijadoo.net/live/fox_life/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Documentary",Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Documentary",Living Foodz
@@ -400,8 +392,7 @@ http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Indian (Bangla)",APB Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOlvu860-4YyuJnsrD7uGb-82xya5CcC2cwWHynuSYVFehJBHU&usqp=CAU" group-title="Indian (Bangla)",Colors Bangla HD
-http://robi.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
+
 
 
 
@@ -415,8 +406,7 @@ http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6510?token=SRJYAhFRRlgVVFF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Star_Gold_Logo.jpg" group-title="Indian (Hindi)",Star Gold
 http://216.144.250.174/Star_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="Indian (Hindi)",Star Gold HD
-http://robi.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRIvfTcBIL88Wa2OpuJu8X_uBAvUMWzjRWWb5BfDxNGZkiGy4o3&usqp=CAU" group-title="Indian (Hindi)",Zee Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemausa/index.m3u8 
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Indian (Hindi)",Zee Cinema HD
@@ -525,15 +515,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="Indian (Hindi)",E24
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="Indian (Hindi)",MTV Beats HD
-http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="Indian (Hindi)",Zoom
-http://robi.iptv.digijadoo.net/live/zoom/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="Indian (Hindi)",Colors HD
-http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUEEboKTR4xz2p8TlDpw4z2kxBJ9b-l0e-Rc-PquMFO6JWt7c3&usqp=CAU"  group-title="Indian (Hindi)",Colors Rishtey
-http://robi.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 
 
 
@@ -561,10 +543,7 @@ https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8?@
 http://162.244.81.145:2215/live/livestream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A5aoyfY.png" group-title="Islamic",British Muslim TV
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="Islamic",Quran TV
-http://robi.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="Islamic",Sunna TV
-http://robi.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
+
 
 
 
@@ -656,8 +635,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
 http://103.47.132.165:80/PLTV/88888888/224/3221227277/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",FOX HD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmxJfwGi4HVlqX3nKNTldHf2N13uEM5BZsLOEFPOJnWM2QrH3Q&usqp=CAU" group-title="English",COMEDY CENTRAL HD
-http://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English",Warner Bros
 http://203.154.243.89:11205
@@ -701,17 +679,8 @@ http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus0
 http://103.47.132.164/PLTV/88888888/224/3221227133/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" group-title="English",CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTtAmbaZsOfnQDjhaUyQfI3ZkeTdOBZ2f5u6UWici3K-v2UvNp5&usqp=CAU" group-title="English",Star World (India)
-http://robi.iptv.digijadoo.net/live/star_world/chunks.m3u8
 
 
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU" group-title="Foreign",Rai Italia
-http://robi.iptv.digijadoo.net/live/rai_italia/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tvtolive.com/wp-content/uploads/TBN-Asia-TV.tvtolive.com_.png" group-title="Foreign",TBN Asia
 http://45.126.83.51/qwr9ew/s/s39/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/340?cb=20140607174731" group-title="Foreign",KIX
