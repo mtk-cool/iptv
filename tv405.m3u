@@ -253,8 +253,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
 http://43.230.123.21:8080/live/nick.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", Nickelodeon
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Hindi
-http://tv.ebox.live:8080/live/nick.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png" group-title="Kids-Toon",CBEEBIES
 http://51.52.156.22:8888/http/003
@@ -587,14 +586,13 @@ http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
 http://z5amshls.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRkeyowQMl1aWI86WXsyMG1EslHXv8JKL6jkYlEboEa0ShdRMEq&usqp=CAU" group-title="English", &Prive HD
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",Sony Pix HD*
-http://43.230.123.21:8080/live/sony-pix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="English",Sony Pix HD
-http://tv.ebox.live:8080/live/sony-pix.m3u8
+http://43.230.123.21:8080/live/sony-pix.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies HD 
 http://43.230.123.21:8080/live/star-movies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",OSN Movies HD 
-http://tv.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies HD* 
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/54341
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="English",Star Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English",Star Movies Select HD
