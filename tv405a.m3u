@@ -315,7 +315,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD Bangla*
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary",Discovery ASIA
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary",Discovery ASIA
 http://103.47.132.165:80/PLTV/88888888/224/3221227161/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
