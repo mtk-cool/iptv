@@ -384,7 +384,12 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary", EPIC
 http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/62.m3u8?checkedby:hlscat.com
-
+#EXTINF:-1 group-title="Documentary",Food Channel
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 group-title="Documentary",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="Documentary",Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png" group-title="Documentary",Discovery ASIA
 http://103.47.132.165:80/PLTV/88888888/224/3221227161/index.m3u8
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/11/f0/8a/11f08a88-550a-082f-6b7b-1ede9166aa71/source/512x512bb.jpg" group-title="Documentary",Love Nature 4K
@@ -520,7 +525,12 @@ http://195.181.169.129/StarPlusASIA-Hin/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vgwu01lpb7imo8l/Shemaroo.png" group-title="Indian (Hindi)",Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
-
+#EXTINF:-1 group-title="Indian (Hindi)", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 group-title="Indian (Hindi)",Manoranjan Movies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 group-title="Indian (Hindi)",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" tvg-id="ZTV.IN" group-title="Indian (Hindi)",Zee TV HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpbBsc2MGhsbRXPW5K6TmSuHvb0Bge1uRYt_3OF0Me8HeySDB8&usqp=CAU" group-title="Indian (Hindi)",Zee Smile
@@ -654,7 +664,7 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="English",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXmoUHiFhOW1HgpoZZktTvYF8_RMw074VLpUvqeQjQ8v0DcgIU&usqp=CAU" group-title="English",Fox Action Movies
-http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" group-title="English",FOX Family Movies
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="English",Hits Movies
@@ -663,6 +673,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="English",MN+ HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
+#EXTINF:-1 group-title="English" ,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="English",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?@amarnettv.live
