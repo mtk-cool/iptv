@@ -114,6 +114,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R77S4T4.png" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 tvg-logo="https://img.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg" group-title="News",Asianet News
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1 tvg-logo="https://starsat.co.za/wp-content/uploads/2018/10/Africa-News.png" group-title="News",Africa News
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1ROogJu.png" group-title="News",RT News
@@ -350,6 +352,11 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index
 https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR63yflOihqhrEiuWCMfbcnbUfzTiqnfiRJwz_TPoL1fsL7PhvH&usqp=CAU" group-title="Documentary",Fox Life
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
+#EXTINF:-1 group-title="Documentary",Serveur TV
+https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1 group-title="Documentary",Popular Scince
+https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary",Nasa TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cf/cf111b0ff32ffa7242b4e1d02b704ed0.jpeg" group-title="Documentary",GOOD TiMES
@@ -550,7 +557,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/a8/69/12a869411841bfc515045a0fcc68c78e.jpg" group-title="Indian (Hindi)",9X Jalwa
 http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/mastii.jpg" group-title="Indian (Hindi)",Mastii
-http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="Indian (Hindi)",E24
 http://iptv.kitv.live:1935/live/Shari/MTV-P/83.m3u8
 
