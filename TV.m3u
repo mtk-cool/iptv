@@ -75,7 +75,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News", Ekattor TV
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="News", DBC News
-http://43.230.123.21:8080/live/dbc.m3u8
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="News", ATN News
@@ -90,7 +90,7 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" tvg-id="Bbw.News" group-title="News",BBC World
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://203.162.235.41:16917
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" tvg-id="CNN.News" group-title="News",CNN International
 http://203.162.235.41:16918
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" tvg-id="Jaz.News" group-title="News",Al Jazeera
@@ -249,12 +249,11 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids-Toon", Duronto TV
-http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids-Toon", Duronto HQ
 http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids-Toon",Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Kids-Toon", Duronto TV
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="Kids-Toon",Disney XD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
@@ -280,6 +279,8 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 #EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="Kids-Toon",ZEE5 Kids
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/9b05285c38c54549a5afd04473bdd65c/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids-Toon",Discovery Kids
+https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.telanganatoday.com/wp-content/uploads/2018/04/Sony_yay.jpg" group-title="Kids-Toon",Sony YAY
 http://iptv.kitv.live:1935/live/Shari/MTV-P/66.m3u8
@@ -304,13 +305,17 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HQ
+http://43.230.123.21:8080/live/animale-planet.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD Bangla
 http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentary",Discovery HD Hindi
+https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Documentary",Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
@@ -329,11 +334,12 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="Documentary",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/a3/4c/1c/a34c1c61d0fb74ae04cef77c2a0375a4.jpg" group-title="Documentary",This is Bulgaria
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/454-4544327_logo-canal-history-2-hd-png-download.png" group-title="Documentary",History 2
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="Documentary",History TV 18 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/86.m3u8
+http://103.214.202.218:8081/live/history/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Documentary",TLC HD
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
@@ -678,7 +684,8 @@ http://45.126.83.51/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="English",FOX
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
-
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagecd6f331b8533e945.png" group-title="English", Colors Infinity
+http://43.230.123.21:8080/live/color-Infinity.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="English",Warner TV
 http://203.154.243.89:11205
