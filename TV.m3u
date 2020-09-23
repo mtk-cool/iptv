@@ -473,7 +473,8 @@ https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" tvg-id="Pictures.in" tvg-name="&Pictures" group-title="Indian (Hindi)",&Pictures HD
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/andpicshd/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Indian (Hindi)",&Xplor HD
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i1.wp.com/offerofworld.com/wp-content/uploads/2020/06/Shemaroo-Premium-Subscription-Free-offerofworld.png?fit=334%2C151&ssl=1" group-title="Indian (Hindi)",Shemaroo Premiere HD
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
