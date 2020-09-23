@@ -47,7 +47,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/3.m3u8
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Bangladesh_Television_logo.png/220px-Bangladesh_Television_logo.png" group-title="Bangla", BTV 
-http://103.205.133.14/hls/btv.m3u8
+http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="Bangla",BTV Chattogram
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla", Sangsad TV
@@ -145,6 +145,8 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?@amarnett
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="News",APB Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmoYacu.jpg" group-title="News",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8?@amarnettv.live
 
 
 
@@ -231,7 +233,14 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
 #EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/ADSports1.png" group-title="Sports",Ads Sport
 http://212.47.252.54/hls/stream.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/9/7/18/boxing-combat-sport-sports-entertainment-television-channel-png-favpng-SFeQy495p7BAF1ciSdHgmsb8m.jpg" group-title="Sports",Fight Sports
 http://45.126.83.51/uq2663/h/h05/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/38/7e/79387e4dc16857d4b9980332c0dafa57.png" group-title="Sports",WWE
@@ -278,8 +287,6 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/67.m3u8
 http://51.52.156.22:8888/http/001
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJrxx2YxM1UzdzzzJ9Sxi9QIfGaU_-KKqF2gVyiDUyi-mS8SVl&usqp=CAU" group-title="Kids-Toon", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="Kids-Toon",ZEE5 Kids
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/9b05285c38c54549a5afd04473bdd65c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Kids-Toon",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
@@ -356,8 +363,6 @@ http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1003361/Food52_Logo.jpg?p=facebook" group-title="Documentary",Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/4f/e6/94/4fe694d4f58d6e512e481bba5d3949d5.jpg" group-title="Documentary",Cooking 4U
-https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://nameproscdn.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FGg3Z2Jj.png&hash=9956cb08326558adeb14a2c1766797af" group-title="Documentary",Saveur TV
 https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
@@ -368,9 +373,6 @@ https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/cf/cf111b0ff32ffa7242b4e1d02b704ed0.jpeg" group-title="Documentary",GOOD TiMES
 https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2019/08/epic_1.jpg&w=620&h=350&zc=1&q=100" group-title="Documentary", EPIC
-http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/62.m3u8?checkedby:hlscat.com
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png" group-title="Documentary",TRAVEL XP HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
