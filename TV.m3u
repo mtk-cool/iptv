@@ -260,6 +260,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK
 http://43.230.123.21:8080/live/nick.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="Kids-Toon",NICK [Bangla]
+http://103.211.185.98:8082/55/index.m3u8?token=63bf9044816265fa6dec12b9b919906566a4a646-8bff102b98b19777c3628339af08e17c-1600770045-1600759245&remote=202.5.56.39
 #EXTINF:-1 tvg-logo="https://www.whats-on-netflix.com/wp-content/uploads/2020/07/nickelodeon-logo-netflix-titles.jpg" tvg-id="Nickelodeon.in" group-title="Kids-Toon", Nickelodeon
 http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" tvg-id="Nickelodeon.in" group-title="Kids-Toon", NICK Junior
@@ -655,7 +657,12 @@ http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/digitaladvertisingmedia.com/wp-content/uploads/2019/12/S_amerhorrors.jpg?fit=1024%2C768&ssl=1" group-title="English",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English",MBC MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English",MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="English",MBC Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s6mC4VE.png" group-title="English",Movies Kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8?@amarnettv.live
