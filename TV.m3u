@@ -421,7 +421,7 @@ http://43.230.123.21:8080/live/zee-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="Indian (Bangla)",Star Jalsha HD
 http://43.230.123.21:8080/live/star-jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="Indian (Bangla)",Sony Aath
-http://iptv.kitv.live:1935/live/Shari/MTV-P/20.m3u8
+http://89.187.169.206:2200/R-EX/MARATHI_SONY_AATH-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="Indian (Bangla)",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 
@@ -557,27 +557,27 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/34.m3u8
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg"  group-title="Indian (Hindi)",Star Bharat
 http://103.205.133.19/hls/starbharat.m3u8
-
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest/scale-to-width-down/340?cb=20191227125237" group-title="Indian (Hindi)",MTV beats hd
+http://185.59.222.234:2200/R-EX/HINDI_MTV_BEATS_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Indian (Hindi)",MTV
-http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
+http://195.181.172.83:2200/R-EX/HINDI_MTV_PLUS_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" tvg-id="ZIN.IN" group-title="Indian (Hindi)",Zing
-http://iptv.kitv.live:1935/live/Shari/MTV-P/81.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zing/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="Indian (Hindi)",B4U Music
-http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQq-4r-ZuNu9rzP0P95YJ_-glDatM1VqLZiGpgpBqA9dWWZmIb1&usqp=CAU" group-title="Indian (Hindi)",Joo Music
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ed5LKsR4hhY/hqdefault.jpg" group-title="Indian (Hindi)",8XM
-http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="Indian (Hindi)",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="Indian (Hindi)",Zee ETC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="Indian (Hindi)",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="Indian (Hindi)",9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/12/a8/69/12a869411841bfc515045a0fcc68c78e.jpg" group-title="Indian (Hindi)",9X Jalwa
-http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/mastii.jpg" group-title="Indian (Hindi)",Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AEWPtCE.jpg" group-title="Indian (Hindi)",E24
@@ -664,6 +664,10 @@ http://198.255.87.59:8080/INDIA_ENGLISH/STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?tok
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="English",FOX Movies
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",FOX FAMILY HD EN
+https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="English" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION EN
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" group-title="English",Fox Life
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXmoUHiFhOW1HgpoZZktTvYF8_RMw074VLpUvqeQjQ8v0DcgIU&usqp=CAU" group-title="English",Fox Action Movies
