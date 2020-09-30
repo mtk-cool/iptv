@@ -65,8 +65,7 @@ https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangla", Gaan Bangla
 https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="Bangla",RTV Music
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-
+https://bdsl.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
 
 
 
@@ -354,10 +353,14 @@ http://live-ng-01.more.tv/hls/Viasat_Nature_HD/index_1.m3u8
 http://live-ng-01.more.tv/hls/Viasat_Explore_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/280x280_RS/a3/4c/1c/a34c1c61d0fb74ae04cef77c2a0375a4.jpg" group-title="Documentary",This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
+http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="Documentary",Fox Life
+http://198.255.87.59:8080/INDIA_HINDI/FOX_LIFE_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Documentary",TLC HD
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Documentary",TLC (Hindi)
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 
@@ -382,6 +385,9 @@ https://load.airtel.tv/ndtvgoodtimes/smil:common.smil/chunklist.m3u8
 http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Txphd_logo_2015.png/220px-Txphd_logo_2015.png" group-title="Documentary",TRAVEL XP Bangla
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Documentary",Love Nature 4K
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Documentary",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="Documentary",Crime + Investigation
@@ -402,8 +408,7 @@ http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfJJvAO.jpg" group-title="Documentary",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Documentary",BBC Earth
-http://iptv.kitv.live:1935/live/Shari/MTV-P/62.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU"  group-title="Documentary",BBC Lifestyle
 http://iptv.kitv.live:1935/live/Shari/MTV-P/46.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="Documentary",Hum Masala
@@ -430,11 +435,11 @@ http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="Indian (Bangla)",Akash Aath
-http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
+https://load.airtel.tv/aakashaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="Indian (Bangla)",Colors Bangla
 http://43.230.123.21:8080/live/colors-bangla.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="Indian (Bangla)",Sangeet Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/70.m3u8
+http://198.255.87.59:8080/INDIA_BENGALI/SANGEET_BANGLA/tracks-v1a1/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2018/05/30/enterr10.jpg?itok=_b2rq0HY"group-title="Indian (Bangla)",Enter 10 Bangla
@@ -442,7 +447,7 @@ http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s320/Rupashi%2BBangla.png" group-title="Indian (Bangla)",Ruposhi Bangla
 http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLm9yYW5nZXNreWRpZ2l0YWxzdHVkaW8uYmlnZ2Jvc3NrYW5uYWRhcmV2aWV3X3NjcmVlbl8xXzE1MzA3NzgxMDVfMDEx/screen-1.jpg?fakeurl=1&type=.jpghttps://image.winudf.com/v2/image/Y29tLm9yYW5nZXNreWRpZ2l0YWxzdHVkaW8uYmlnZ2Jvc3NrYW5uYWRhcmV2aWV3X3NjcmVlbl8xXzE1MzA3NzgxMDVfMDEx/screen-1.jpg?fakeurl=1&type=.jpg" group-title="Indian (Bangla)",DD Bangla
-http://iptv.kitv.live:1935/live/Shari/MTV-P/57.m3u8
+https://load.airtel.tv/ddbangla/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="Indian (Bangla)",Jhankar TV
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Indian (Bangla)",Orange Bangla
