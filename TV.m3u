@@ -59,7 +59,8 @@ https://rhridoy136.shortcm.li/bijoytv.m3u8
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.m3u8
 #EXTINF:0 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="Bangla",Sangsad TV
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BTV Chattogram" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x91288" group-title="Bangla",BTV Chattogram
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Bangla",Khusboo Bangla
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="Bangla", Gaan Bangla
