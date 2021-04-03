@@ -471,28 +471,6 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 #EXTINF: -1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="Sports-Live", Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png" group-title="Sports-Live", Bein Sports 10 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png" group-title="Sports-Live", Bein Sports 11 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="Sports-Live", Bein Sports 12 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="Sports-Live", Bein Sports 2 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Sports-Live", Bein Sports 3 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports-Live", Bein Sports 4 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="Sports-Live", Bein Sports 5 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="Sports-Live", Bein Sports 6 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="Sports-Live", Bein Sports 7 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png" group-title="Sports-Live", Bein Sports 8 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="Sports-Live", Bein Sports 9 HD
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/BeIN_SPORTS_HD1_logo.png" group-title="Sports-Live", beIN Sports FR HD 1
 http://43.230.123.21:8080/live/bein-sports-fr-1.m3u8
 #EXTINF: -1 tvg-id="B11.QA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRktox4IoUgLNVPWvQ8COmEKgQzpIzs5RBDit9cVBKxQGJn4syC&usqp=CAU" group-title="Sports-Live", beIN Sports HD 11
@@ -691,10 +669,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WZra Kids TV" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Kids-Toon", WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="Infotainment", AFC
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/AFHV_new_logo_%28main%29.png" group-title="Infotainment", AFV Family
-http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0e/AFHV_new_logo_%28main%29.png" group-title="Infotainment", AFV Family
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="AKC TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71NOXoPAO3L._AC_UL600_SR600,600_.png" group-title="Infotainment", AKC TV
@@ -703,10 +677,6 @@ https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment", ANIMAL PLANET HD [ENGLISH]
 http://103.153.175.254:8080/hls/stream6.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD [ENGLISH]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment", ANIMAL PLANET HD [ENGLISH]
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment", ANIMAL PLANET HD [HINDI]
-https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ANIMAL PLANET HD [HINDI]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="Infotainment", ANIMAL PLANET HD [HINDI]
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF: -1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Infotainment", Animal Planet Hindi
@@ -715,34 +685,16 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 http://43.230.123.21:8080/live/animale-planet.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="AFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png" group-title="Infotainment", Asian Food Network
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="Infotainment", BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="Infotainment", BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="Infotainment", BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="Infotainment", BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="BBCLifestyle(src01).pl(m3u4u)" tvg-name="BBC Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/1280px-BBC_Lifestyle2.svg.png" group-title="Infotainment", BBC Lifestyle
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BBC Lifestyle HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="Infotainment", BBC Lifestyle HD
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Infotainment", Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://streaming.yn.lt/spamtv.jpg" group-title="Infotainment", Biznet Adventure
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF: -1 group-title="Infotainment", Crime & Investigation
-http://203.154.243.31:15001
-#EXTINF: -1 group-title="Infotainment", Crime & Investigation
-http://203.154.243.31:15001
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg/1200px-Crime_%2B_Investigation_Logo_10.2019.svg.png" group-title="Infotainment", Crime + Investigation
 http://203.154.243.31:15001
 #EXTINF: -1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CTGN Documentery
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF: -1 tvg-logo="https://cdn.startimestv.com/static/files/console/e3b5bdbc-a437-41f1-81f0-67c9257622fc.jpg" group-title="Infotainment", CTGN Documentery
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Da Vinci HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="Infotainment", Da Vinci HD
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Da Vinci HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-vinci-learning_149759147347.png" group-title="Infotainment", Da Vinci HD
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", Discovery
@@ -751,16 +703,12 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/140/index.m3u
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery [BANGLA]
 http://103.153.175.254:8080/hls/stream9.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery [BANGLA]" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery [BANGLA]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery [HINDI]
-https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery [HINDI]" tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery [HINDI]
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Asia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmnUDBYx9Pe0FPk91Gznd2LKqcnJBQZRYT0hGurmtwlwetQrQX&usqp=CAU" group-title="Infotainment", Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery HD
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovry ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Infotainment", Discovry ASIA HD
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Infotainment", Discovery HD
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Infotainment", Discovery HD Bangla
@@ -773,13 +721,7 @@ https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 http://itvorigin.multitvsolution.com/idvo/discoveryhindi_360p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Infotainment", Discovery Science
 https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Infotainment", Discovery Science [ENGLISH]
-https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science [ENGLISH]" tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Infotainment", Discovery Science [ENGLISH]
-https://itvorigin.multitvsolution.com/idvo/discoverscienceeng.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Infotainment", Discovery Science [HINDI]
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science [HINDI]" tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="Infotainment", Discovery Science [HINDI]
 https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Science HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", Discovery Science HD
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6001/index.m3u
@@ -787,110 +729,58 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6001/index.m3u
 https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Infotainment", Discovery Turbo
 https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Infotainment", Discovery Turbo
-https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
-#EXTINF: -1 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Infotainment", Discovery Turbo
-https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Infotainment", Discovery Turbo
-https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="Infotainment", Discovery Turbo
-https://itvorigin.multitvsolution.com/idvo/turboeng.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Discovry ASIA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="Infotainment", Discovry ASIA HD
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wfJJvAO.jpg" group-title="Infotainment", Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Docurama" tvg-logo="https://thesavvyscreener.com/wp-content/uploads/2016/11/docurama.png" group-title="Infotainment", Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Docurama" tvg-logo="https://i.imgur.com/wfJJvAO.jpg" group-title="Infotainment", Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF: -1 tvg-logo="https://cdn.shopify.com/s/files/1/0509/6397/2280/files/DryBar_logo_black_1204x630.png" group-title="Infotainment", Drybar Comedy
 https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://cdn.shopify.com/s/files/1/0509/6397/2280/files/DryBar_logo_black_1204x630.png" group-title="Infotainment", Drybar Comedy
-https://drybar-drybarcomedy-1-au.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="Infotainment", Fail Army
-https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="Infotainment", Fail Army
 https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Infotainment", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fashion TV" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="Infotainment", Fashion TV
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://mma.prnewswire.com/media/1003361/Food52_Logo.jpg?p=facebook" group-title="Infotainment", Food 52
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Food 52" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRO_F8T3_Ow1_Od8Eqtz692_3VxF6YgnIWnsw&usqp=CAU" group-title="Infotainment", Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Food Food IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", Food Food IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6583/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Fox Life" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="FoxLife.es(m3u4u)" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/oi6c9gJ.png" group-title="Infotainment", Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Life HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png" group-title="Infotainment", Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/gameshows/images/1/1a/Game_Show_Central.png" group-title="Infotainment", Game Show Central
 https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/gameshows/images/1/1a/Game_Show_Central.png" group-title="Infotainment", Game Show Central
-https://gsn-gameshowchannnel-1.vizio.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Infotainment", HD Fashion & Lifestyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HD Fashion & LifeStyle" tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="Infotainment", HD Fashion & LifeStyle
-http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: -1 tvg-id="hdfashion" tvg-name="HDFashion" tvg-logo="https://i.imgur.com/LtQL1q9.jpg" group-title="Infotainment", HDFashion
 http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
-#EXTINF: -1 tvg-id="H2.uk" tvg-name="History 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", History 2
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8?Live-TV™
 #EXTINF: -1 tvg-logo="https://p.kindpng.com/picc/s/454-4544327_logo-canal-history-2-hd-png-download.png" group-title="Infotainment", History 2
 https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="History TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", History TV
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8?Live-TV™
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="Infotainment", History TV
 https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HUM Masala IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", HUM Masala IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6733/index.m3u
-#EXTINF: -1 tvg-id="ext" tvg-name="ID Fashion" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", ID Fashion
-https://sc.id-tv.kz/IDFashion_38_39.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ID Fashion" tvg-logo="https://i.imgur.com/gH3MhSi.png" group-title="Infotainment", ID Fashion
 https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Living Foodz IN" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", Living Foodz IN
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6590/index.m3u
-#EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Love Nature" tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Infotainment", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="love-nature-4k" tvg-name="LOVE NATURE 4K" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", LOVE NATURE 4K
 http://dmitry-tv.my1.ru/his/zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF: -1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="Infotainment", Love Nature 4K
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mystery Science" tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png" group-title="Infotainment", Mystery Science
 https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Mystery Science" tvg-logo="https://mst3k.com/userFiles/uploads/logos/mstlogo.png" group-title="Infotainment", Mystery Science
-https://mst3k-stirr-us.amagi.tv/playlistR720P.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA Media TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Infotainment", NASA Media TV
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA Media TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/1200px-NASA_TV.svg.png" group-title="Infotainment", NASA Media TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA Public TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Infotainment", NASA Public TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF: -1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF: -1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Infotainment", Nasa TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF: -1 tvg-logo="https://www.nasa.gov/sites/default/files/files/tv_share.jpg" group-title="Infotainment", Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NASA TV" tvg-logo="https://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg" group-title="Infotainment", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF: -1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO HD (2)
+#EXTINF: -1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8
-#EXTINF: -1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO HD (4)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO HD (5)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idBeSSd.png" group-title="Infotainment", NATIONAL GEO
+http://103.153.175.254:8080/hls/stream13.m3u8
+#EXTINF: -1 tvg-id="NGCHD.uk" tvg-name="NAT GEO HD (5)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO HD
 https://oxoo.lk21tvonlineid.com/m3u/natgeo.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPg6qWgusNMXL9XQk4N4fEsjXUgRIzQVMyJABnaY-JHGJuFWP71mUyPBQZoDU8wpN-EUYWZ4-Ycoa3hn0i7UXmNeBn_bPxMMA&usqp=CAU&ec=45732300" group-title="Infotainment", National Geographic
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPg6qWgusNMXL9XQk4N4fEsjXUgRIzQVMyJABnaY-JHGJuFWP71mUyPBQZoDU8wpN-EUYWZ4-Ycoa3hn0i7UXmNeBn_bPxMMA&usqp=CAU&ec=45732300" group-title="Infotainment", National Geographic
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="NAT GEO HD [ABU DHABI]" tvg-logo="https://broadcastprome.com/wp-content/uploads/2017/11/logo-300x200.png" group-title="Infotainment", NAT GEO HD [ABU DHABI]
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF: -1 tvg-id="NationalGeographicWild.us(m3u4u)" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="Infotainment", Nat Geo Wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 #EXTINF: -1 tvg-id="NGCWild.eu" tvg-name="NAT GEO WILD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO WILD (2)
 https://oxoo.lk21tvonlineid.com/m3u/natgeowild.m3u8
 #EXTINF: -1 tvg-id="NatGeoWild.uk" tvg-name="NAT GEO WILD HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT GEO WILD HD
@@ -899,44 +789,22 @@ https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?Live-TV™
 http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 #EXTINF: -1 tvg-id="ext" tvg-name="NAT PEOPLE HD (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", NAT PEOPLE HD (2)
 https://oxoo.lk21tvonlineid.com/m3u/natgeopeople.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/idBeSSd.png" group-title="Infotainment", NATIONAL GEO
-http://103.153.175.254:8080/hls/stream13.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPg6qWgusNMXL9XQk4N4fEsjXUgRIzQVMyJABnaY-JHGJuFWP71mUyPBQZoDU8wpN-EUYWZ4-Ycoa3hn0i7UXmNeBn_bPxMMA&usqp=CAU&ec=45732300" group-title="Infotainment", National Geographic
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="Infotainment", National Geographic
 http://43.230.123.21:8080/live/natg.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPg6qWgusNMXL9XQk4N4fEsjXUgRIzQVMyJABnaY-JHGJuFWP71mUyPBQZoDU8wpN-EUYWZ4-Ycoa3hn0i7UXmNeBn_bPxMMA&usqp=CAU&ec=45732300" group-title="Infotainment", National Geographic
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-discovery-6-kh.png" group-title="Infotainment", ONETV 6 - Discovery
 http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/one-tv-discovery-6-kh.png" group-title="Infotainment", ONETV 6 - Discovery
-http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" group-title="Infotainment", Outdoor Channel HD
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel HD" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_outdoor-channel_149759145138.png" group-title="Infotainment", Outdoor Channel HD
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Mnaq9zd.jpg" group-title="Infotainment", PBS America
 http://51.52.156.22:8888/http/012
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PBS America" tvg-logo="https://www.pbsamerica.co.uk/wp-content/themes/pbs/img/logo.png" group-title="Infotainment", PBS America
-http://51.52.156.22:8888/http/012
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iapPi1z2UN7PHSbdTf6s1rLP2h078woQYw&usqp=CAU" group-title="Infotainment", People are Awesome
 https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-iapPi1z2UN7PHSbdTf6s1rLP2h078woQYw&usqp=CAU" group-title="Infotainment", People are Awesome
-https://jukin-peopleareawesome-2-gb.samsung.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://www.pngkey.com/png/full/788-7883326_tv-channel-logos-png-new-science-channel-logo.png" group-title="Infotainment", Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Popular Science" tvg-logo="https://www.tillerdesign.com/wp-content/uploads/2019/07/popular-science-magazine_610_407_80.jpg" group-title="Infotainment", Popular Science
 https://a.jsrdn.com/broadcast/447912f76b/+0000/high/c.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqHLKkSQfxCsyqCd670dIjJTsdcG6H80ulg&usqp=CAU" group-title="Infotainment", Retro TV
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqHLKkSQfxCsyqCd670dIjJTsdcG6H80ulg&usqp=CAU" group-title="Infotainment", Retro TV
-http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Infotainment", RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Infotainment", RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/RTD-TV-logo.png/220px-RTD-TV-logo.png" group-title="Infotainment", RT Documentary
-http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://nameproscdn.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FGg3Z2Jj.png&hash=9956cb08326558adeb14a2c1766797af" group-title="Infotainment", Saveur TV
 https://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="SONY BBC Earth (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Infotainment", SONY BBC Earth (1)
@@ -945,32 +813,18 @@ https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 http://103.153.175.254:8080/hls/stream5.m3u8
 #EXTINF: -1 tvg-logo="https://www.tubefilter.com/wp-content/uploads/2015/07/pet-collective.jpg" group-title="Infotainment", The Pet Collective
 https://the-pet-collective-linear.vizio.wurl.com/manifest/1200.m3u8
-#EXTINF: -1 tvg-logo="https://www.tubefilter.com/wp-content/uploads/2015/07/pet-collective.jpg" group-title="Infotainment", The Pet Collective
-https://the-pet-collective-linear.vizio.wurl.com/manifest/1200.m3u8
 #EXTINF: -1 tvg-logo="https://i.pinimg.com/280x280_RS/a3/4c/1c/a34c1c61d0fb74ae04cef77c2a0375a4.jpg" group-title="Infotainment", This is Bulgaria
 http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Infotainment", TLC
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment", TLC
-https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
-#EXTINF: -1 tvg-id="TLC(src07).in(m3u4u)" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/640px-TLC-Logo_2016.png" group-title="Infotainment", TLC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/45.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Infotainment", TLC (Hindi)
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment", TLC [ENGLISH]
-https://itvorigin.multitvsolution.com/idvo/tlceng.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC [ENGLISH]" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment", TLC [ENGLISH]
-https://itvorigin.multitvsolution.com/idvo/tlceng.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment", TLC [HINDI]
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC [HINDI]" tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="Infotainment", TLC [HINDI]
-https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Infotainment", TLC
+https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="Infotainment", TLC HD
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TLC HD" tvg-logo="http://i.imgur.com/TInMfsC.png" group-title="Infotainment", TLC HD
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yKKebC0.jpg" group-title="Infotainment", Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Travel TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="Infotainment", Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF: -1 tvg-id="TravelXP(src07).in(m3u4u)" tvg-name="Travel XP" tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Infotainment", Travel XP
@@ -2515,26 +2369,48 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1436.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2499/index.m3u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 1 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 1 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6123/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/10-HD.png" group-title="Sports", Bein Sports 10 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1445.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 10 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 10 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6131/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/11-HD.png" group-title="Sports", Bein Sports 11 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1451.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 11 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 11 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6132/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/12-HD.png" group-title="Sports", Bein Sports 12 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1447.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 12 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 12 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6133/index.m3u
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Sports", beIN Sports 2 (AISPLAY)
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="Sports", Bein Sports 2 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 2 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", Bein Sports 2 HD FR
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2500/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="Sports", Bein Sports 3 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1438.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 3 HD FR" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", Bein Sports 3 HD FR
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2501/index.m3u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 3 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 3 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6124/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/4-HD.png" group-title="Sports", Bein Sports 4 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1439.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/5-HD.png" group-title="Sports", Bein Sports 5 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1440.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 5 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 5 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6126/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/6-HD.png" group-title="Sports", Bein Sports 6 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1441.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 6 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 6 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6127/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/7-HD.png" group-title="Sports", Bein Sports 7 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1442.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="beIN Sports 7 HD QA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", beIN Sports 7 HD QA
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6128/index.m3u
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/8-HD.png" group-title="Sports", Bein Sports 8 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1443.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/9-HD.png" group-title="Sports", Bein Sports 9 HD
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1444.m3u8
 #EXTINF: -1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="Sports", Bein Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS HD ES" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", BEIN SPORTS HD ES
@@ -2765,10 +2641,6 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2521/index.m3u
 https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF: -1 tvg-logo="https://techcrunch.com/wp-content/uploads/2017/08/stadium-logo.jpg" group-title="Sports", Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Star S 1 Sel. (3)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", Star S 1 Sel. (3)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
-#EXTINF: -1 tvg-id="ext" tvg-name="Star S 2 Sel. (4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", Star S 2 Sel. (4)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
 #EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="Sports", Star Sports 1 HD
 http://hitectv.live/hls/stream15.m3u8
 #EXTINF: -1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="Sports", Star Sports 1 HD [4]
@@ -2823,46 +2695,46 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2559/index.m3u
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2561/index.m3u
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Телеканал Футбол" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports", Телеканал Футбол
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/5050/index.m3u
-#EXTINF: -1 tvg-id="tv1000-comedy-hd" tvg-name="ViP Comedy HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", ViP Comedy HD
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?Live-TV™
-#EXTINF: -1 tvg-id="tv1000-megahit-hd" tvg-name="ViP Megahit HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", ViP Megahit HD
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?Live-TV™
-#EXTINF: -1 tvg-id="tv1000-premium-hd" tvg-name="ViP Premiere HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", ViP Premiere HD
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?Live-TV™
-#EXTINF: -1 tvg-id="vip-serial" tvg-name="VIP SERIAL HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", VIP SERIAL HD
-http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8?Live-TV™
-#EXTINF: -1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Foreign", TV5 Monde Asie
-https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/FyUAJ7C.jpg" group-title="Foreign", ViP Premiere HD
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XZIWBAC.jpg" group-title="Foreign", ViP Megahit HD
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/iQzzFcs.jpg" group-title="Foreign", ViP Comedy HD
-http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/pWnecuO.jpg" group-title="Foreign", TV 1000 HD
-http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hbjBQFw.jpg" group-title="Foreign", TV 1000 Action HD
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://tvtolive.com/wp-content/uploads/TBN-Asia-TV.tvtolive.com_.png" group-title="Foreign", TBN Asia
-http://45.126.83.51/qwr9ew/s/s39/index.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU" group-title="Foreign", YTN
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/VOo8xzE.jpg" group-title="Foreign", YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://img.favpng.com/8/13/11/antv-television-channel-indonesia-logo-png-favpng-YkQ8VAFfD6QKdv61U8M1YMiMW.jpg" group-title="Foreign", AnTV
+http://45.126.83.51/qwr9ew/s/s07/index.m3u8
 #EXTINF: -1 tvg-logo="https://img.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg" group-title="Foreign", Asianet News
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/340?cb=20140607174731" group-title="Foreign", KIX
-http://45.126.83.51/uq2663/h/h07/01.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Discovery_Real_Time_2011_logo.png" group-title="Foreign", Discovery Realtime
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7cSlUBGPHQIVbIAQC9_Z5T2-BMLyVNy8kSA&usqp=CAU" group-title="Foreign", Discovery Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF: -1 tvg-logo="https://th.tvblog.it/1o19Pb7KotlTDhb-mD2yxSvo9SM=/fit-in/655xorig/http%3A%2F%2Fmedia.tvblog.it%2F8%2F85b%2Fnove.jpg" group-title="Foreign", Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
-#EXTINF: -1 tvg-logo="https://img.favpng.com/8/13/11/antv-television-channel-indonesia-logo-png-favpng-YkQ8VAFfD6QKdv61U8M1YMiMW.jpg" group-title="Foreign", AnTV
-http://45.126.83.51/qwr9ew/s/s07/index.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Discovery_Real_Time_2011_logo.png" group-title="Foreign", Discovery Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qmvMUq6.png" group-title="Foreign", DMAX
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/340?cb=20140607174731" group-title="Foreign", KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF: -1 tvg-logo="https://tvtolive.com/wp-content/uploads/TBN-Asia-TV.tvtolive.com_.png" group-title="Foreign", TBN Asia
+http://45.126.83.51/qwr9ew/s/s39/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hbjBQFw.jpg" group-title="Foreign", TV 1000 Action HD
+http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8?@amarnettv.live
+#EXTINF: -1 tvg-logo="https://i.imgur.com/pWnecuO.jpg" group-title="Foreign", TV 1000 HD
+http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8?@amarnettv.live
+#EXTINF: -1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Foreign", TV5 Monde Asie
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF: -1 tvg-id="tv1000-comedy-hd" tvg-name="ViP Comedy HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", ViP Comedy HD
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/master.m3u8?Live-TV™
+#EXTINF: -1 tvg-logo="https://i.imgur.com/iQzzFcs.jpg" group-title="Foreign", ViP Comedy HD
+http://live-ng-01.more.tv/hls/ViP_Comedy_HD/index_1.m3u8?@amarnettv.live
+#EXTINF: -1 tvg-id="tv1000-megahit-hd" tvg-name="ViP Megahit HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", ViP Megahit HD
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/master.m3u8?Live-TV™
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XZIWBAC.jpg" group-title="Foreign", ViP Megahit HD
+http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_1.m3u8?@amarnettv.live
+#EXTINF: -1 tvg-id="tv1000-premium-hd" tvg-name="ViP Premiere HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", ViP Premiere HD
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/master.m3u8?Live-TV™
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FyUAJ7C.jpg" group-title="Foreign", ViP Premiere HD
+http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8?@amarnettv.live
+#EXTINF: -1 tvg-id="vip-serial" tvg-name="VIP SERIAL HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Foreign", VIP SERIAL HD
+http://live-ng-01.more.tv/hls/VIP_SERIAL/master.m3u8?Live-TV™
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU" group-title="Foreign", YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VOo8xzE.jpg" group-title="Foreign", YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE GIRL ON THE TRAIN" tvg-logo="http://10.16.100.244/files/the_girl_on_the_train.jpg" group-title="BrightWall Movies", THE GIRL ON THE TRAIN
 http://10.16.100.206/ftps3/ftps3d3/Movies/Hindi/The%20Girl%20On%20The%20Train%20(2021)%20Hindi%201080P%20%20WEBRip.mkv
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)" tvg-logo="http://10.16.100.244/files/speed_harry%20poter%2010%20poster.jpg" group-title="BrightWall Movies", HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)
@@ -3035,18 +2907,6 @@ http://newtube.ps/components/com_contushdvideoshare/videos/1194005265.mp4
 http://newtube.ps/components/com_contushdvideoshare/videos/2537_video.mp4
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Pi
 http://newtube.ps/components/com_contushdvideoshare/videos/1325878469.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Devi Maa" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Devi Maa
-http://ibadat.out.airtime.pro:8000/ibadat_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Gurbani" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Gurbani
-http://gurbani.out.airtime.pro:8000/gurbani_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Guruvar" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Guruvar
-http://iskon2b.out.airtime.pro:8000/iskon2b_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Krishna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Krishna
-http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Shiva" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Shiva
-http://hot.out.airtime.pro:8000/hot_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Shri Ram" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Shri Ram
-http://dard.out.airtime.pro:8000/dard_a
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla Wadio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Bangla Wadio
