@@ -3449,6 +3449,8 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6136/index.m3u
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="ext" tvg-name="Bflix Movie (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies", Bflix Movie (1)
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV™
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bflix Movies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Movies", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Blue Ant Entertainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7d/BAM-Extreme-LOGO-B_CMYK.jpg" group-title="Movies", Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="HotBOLLYWOOD.il" tvg-name="Bollywood" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movies", Bollywood
@@ -3637,385 +3639,285 @@ https://sc.id-tv.kz/RenTV.m3u8
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="黑莓电影" tvg-logo="http://www.nettv.live/uploads/allimg/19/1-1Z5092006450-L.jpg" group-title="Movies", 黑莓电影
 http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE GIRL ON THE TRAIN" tvg-logo="http://10.16.100.244/files/the_girl_on_the_train.jpg" group-title="BrightWall Technology (Movie)", THE GIRL ON THE TRAIN
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE GIRL ON THE TRAIN" tvg-logo="http://10.16.100.244/files/the_girl_on_the_train.jpg" group-title="BrightWall Movies", THE GIRL ON THE TRAIN
 http://10.16.100.206/ftps3/ftps3d3/Movies/Hindi/The%20Girl%20On%20The%20Train%20(2021)%20Hindi%201080P%20%20WEBRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)" tvg-logo="http://10.16.100.244/files/speed_harry%20poter%2010%20poster.jpg" group-title="BrightWall Technology (Movie)", HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)" tvg-logo="http://10.16.100.244/files/speed_harry%20poter%2010%20poster.jpg" group-title="BrightWall Movies", HARRY POTTER AND THE DEATHLY HALLOWS PART 1 (2010)
 http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%20(2010)%20%5B1080p%5D.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE GOBLET OF FIRE (2005)" tvg-logo="http://10.16.100.244/files/speed_Harry_Potter_and_the_Goblet_of_Fire_film_%20poster.jpg" group-title="BrightWall Technology (Movie)", HARRY POTTER AND THE GOBLET OF FIRE (2005)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE GOBLET OF FIRE (2005)" tvg-logo="http://10.16.100.244/files/speed_Harry_Potter_and_the_Goblet_of_Fire_film_%20poster.jpg" group-title="BrightWall Movies", HARRY POTTER AND THE GOBLET OF FIRE (2005)
 http://10.16.100.241/ftps3d3/Movies/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%20(2005)%20%5B1080p%5D.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)" tvg-logo="http://10.16.100.244/files/speed_Harry_potter_and_the_order_of_the_phoenix_2007_90_poster%20poster.jpg" group-title="BrightWall Technology (Movie)", HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)" tvg-logo="http://10.16.100.244/files/speed_Harry_potter_and_the_order_of_the_phoenix_2007_90_poster%20poster.jpg" group-title="BrightWall Movies", HARRY POTTER AND THE ORDER OF THE PHOENIX (2007)
 http://10.16.100.241/ftps3d6/English/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%20(2007)1080p.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE SORCERERS STONE (2001)" tvg-logo="http://10.16.100.244/files/speed_harry%20porter%20poster.jpg" group-title="BrightWall Technology (Movie)", HARRY POTTER AND THE SORCERERS STONE (2001)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HARRY POTTER AND THE SORCERERS STONE (2001)" tvg-logo="http://10.16.100.244/files/speed_harry%20porter%20poster.jpg" group-title="BrightWall Movies", HARRY POTTER AND THE SORCERERS STONE (2001)
 http://10.16.100.245/ftps2d1/ftps1d3/English%20Movies/2015/Harry%20Potter%20and%20the%20Sorcerers%20Stone%20(2001)%201080p%20BrRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN" tvg-logo="http://10.16.100.244/files/wrong_turn.jpg" group-title="BrightWall Technology (Movie)", WRONG TURN
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN" tvg-logo="http://10.16.100.244/files/wrong_turn.jpg" group-title="BrightWall Movies", WRONG TURN
 http://10.16.100.206/ftps3/ftps3d2/Movies/English/Wrong%20Turn%20(2021)%201080p%20BluRay.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 2 DEAD END" tvg-logo="http://10.16.100.244/files/wrong_turn_2_dead_end.jpg" group-title="BrightWall Technology (Movie)", WRONG TURN 2 DEAD END
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 2 DEAD END" tvg-logo="http://10.16.100.244/files/wrong_turn_2_dead_end.jpg" group-title="BrightWall Movies", WRONG TURN 2 DEAD END
 http://10.16.100.241/ftps3d3/Movies/English/Wrong%20Turn%202%20Dead%20End%20(2007)%201080p%20BrRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 3 LEFT FOR DEAD" tvg-logo="http://10.16.100.244/files/wrong_turn_3_left_for_dead.jpg" group-title="BrightWall Technology (Movie)", WRONG TURN 3 LEFT FOR DEAD
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 3 LEFT FOR DEAD" tvg-logo="http://10.16.100.244/files/wrong_turn_3_left_for_dead.jpg" group-title="BrightWall Movies", WRONG TURN 3 LEFT FOR DEAD
 http://10.16.100.246/ftps4d2/Movies/English/Wrong%20Turn%203%20Left%20For%20Dead%20(2009)%201080p%20BrRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 4 BLOODY BEGINNINGS" tvg-logo="http://10.16.100.244/files/wrong_turn_4__bloody_beginnings.jpg" group-title="BrightWall Technology (Movie)", WRONG TURN 4 BLOODY BEGINNINGS
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 4 BLOODY BEGINNINGS" tvg-logo="http://10.16.100.244/files/wrong_turn_4__bloody_beginnings.jpg" group-title="BrightWall Movies", WRONG TURN 4 BLOODY BEGINNINGS
 http://10.16.100.241/ftps3d1/Movies/English/Wrong%20Turn%204%20Bloody%20Beginnings%20(2011)%201080p%20BrRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 5 BLOODLINES" tvg-logo="http://10.16.100.244/files/wrong_turn_5_bloodlines.jpg" group-title="BrightWall Technology (Movie)", WRONG TURN 5 BLOODLINES
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WRONG TURN 5 BLOODLINES" tvg-logo="http://10.16.100.244/files/wrong_turn_5_bloodlines.jpg" group-title="BrightWall Movies", WRONG TURN 5 BLOODLINES
 http://10.16.100.246/ftps4d3/Movies/English/Wrong%20Turn%205%20Bloodlines%20(2012)%201080p%20BrRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wrong Turn 6 Last Resort" tvg-logo="http://10.16.100.244/files/wrong_turn_6__last_resort.jpg" group-title="BrightWall Technology (Movie)", Wrong Turn 6 Last Resort
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Wrong Turn 6 Last Resort" tvg-logo="http://10.16.100.244/files/wrong_turn_6__last_resort.jpg" group-title="BrightWall Movies", Wrong Turn 6 Last Resort
 http://124.6.236.254:8080/movies/hollywood/2014/Wrong%20Turn%206%20Last%20Resort%20%282014%29/Wrong%20Turn%206%20Last%20Resort%20%282014%29.avi
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Once Upon a Time in the West (1968)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Once Upon a Time in the West (1968)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Once Upon a Time in the West (1968)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Once Upon a Time in the West (1968)
 http://newtube.ps/components/com_contushdvideoshare/videos/2492_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALLUDU ADHURS" tvg-logo="http://10.16.100.244/files/alludu_adhurs.jpg" group-title="BrightWall Technology (Movie)", ALLUDU ADHURS
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ALLUDU ADHURS" tvg-logo="http://10.16.100.244/files/alludu_adhurs.jpg" group-title="BrightWall Movies", ALLUDU ADHURS
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian/Telegu/Alludu%20Adhurs%20(2021)%20Telugu%20PreDVDRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PULIKKUTHI PANDI" tvg-logo="http://10.16.100.244/files/pulikkuthi_pandi.jpg" group-title="BrightWall Technology (Movie)", PULIKKUTHI PANDI
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="PULIKKUTHI PANDI" tvg-logo="http://10.16.100.244/files/pulikkuthi_pandi.jpg" group-title="BrightWall Movies", PULIKKUTHI PANDI
 http://10.16.100.248/ftps6d4/Movies/South%20Indian/Pulikkuthi%20Pandi%20(2021)%20Tamil%201080p%C2%A0WEBDL.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SKUNTHI" tvg-logo="http://10.16.100.244/files/kunthi.jpg" group-title="BrightWall Technology (Movie)", SKUNTHI
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SKUNTHI" tvg-logo="http://10.16.100.244/files/kunthi.jpg" group-title="BrightWall Movies", SKUNTHI
 http://10.16.100.248/ftps6d1/Movies/South%20Indian/Kunthi%20(2021)%201080p%20BluRay%20.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOLO BRATHUKE SO BETTER" tvg-logo="http://10.16.100.244/files/solo_brathuke_so_better.jpg" group-title="BrightWall Technology (Movie)", SOLO BRATHUKE SO BETTER
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SOLO BRATHUKE SO BETTER" tvg-logo="http://10.16.100.244/files/solo_brathuke_so_better.jpg" group-title="BrightWall Movies", SOLO BRATHUKE SO BETTER
 http://10.16.100.248/ftps6d4/Movies/South%20Indian(Hindi%20Dubbed)/Solo%20Brathuke%20So%20Better%20(2021)%201080p%20WEBDL.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE CROODS A NEW AGE" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age.jpg" group-title="BrightWall Technology (Movie)", THE CROODS A NEW AGE
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE CROODS A NEW AGE" tvg-logo="http://10.16.100.244/files/the_croods_a_new_age.jpg" group-title="BrightWall Movies", THE CROODS A NEW AGE
 http://10.16.100.248/ftps6d1/Movies/Animation/The%20Croods%20A%20New%20Age%20(2020)%201080p%20WEBRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WORLD FAMOUS LOVER" tvg-logo="http://10.16.100.244/files/world_famous_lover__hindi_dubbed_.jpg" group-title="BrightWall Technology (Movie)", WORLD FAMOUS LOVER
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="WORLD FAMOUS LOVER" tvg-logo="http://10.16.100.244/files/world_famous_lover__hindi_dubbed_.jpg" group-title="BrightWall Movies", WORLD FAMOUS LOVER
 http://10.16.100.202/ftps10/iccftps10sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/World%20Famous%20Lover%20(2021)%201080p%20WEBRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="15 Lakh Kadon Aauga 2020 Punjabi 720p" tvg-logo="https://i.pinimg.com/originals/36/bf/89/36bf89563aab0807c66b717e34edb047.jpg" group-title="BrightWall Technology (Movie)", 15 Lakh Kadon Aauga 2020 Punjabi 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="15 Lakh Kadon Aauga 2020 Punjabi 720p" tvg-logo="https://i.pinimg.com/originals/36/bf/89/36bf89563aab0807c66b717e34edb047.jpg" group-title="BrightWall Movies", 15 Lakh Kadon Aauga 2020 Punjabi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/15%20Lakh%20Kadon%20Aauga%20%282020%29/15%20Lakh%20Kadon%20Aauga%202020%20Punjabi%20720p%20AMZN%20WEBRip%20AAC%20x264%20-%20LOKiHD%20-%20Telly.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="376 D (2020) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhlM2IwNjUtZmEyMy00MGU1LWJiY2QtMDYyZWM4MjUxZTk0XkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg" group-title="BrightWall Technology (Movie)", 376 D (2020) Hindi 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="376 D (2020) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BODhlM2IwNjUtZmEyMy00MGU1LWJiY2QtMDYyZWM4MjUxZTk0XkEyXkFqcGdeQXVyMTI0NTI1MDEw._V1_.jpg" group-title="BrightWall Movies", 376 D (2020) Hindi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/376%20D%20%282020%29/376%20D%20%282020%29%20Hindi%20720p%20WEBRip%20x264%20AAC.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="5.Weddings.2018.1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIxMWNjZGMtNzVmYi00MmIwLWFlNzQtMDhjMTJiYjQ2NjE1XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg" group-title="BrightWall Technology (Movie)", 5.Weddings.2018.1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="5.Weddings.2018.1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmIxMWNjZGMtNzVmYi00MmIwLWFlNzQtMDhjMTJiYjQ2NjE1XkEyXkFqcGdeQXVyMTE4NTI5NTA@._V1_.jpg" group-title="BrightWall Movies", 5.Weddings.2018.1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/5%20Weddings%20%282018%29/5.Weddings.2018.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Angrezi Medium (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="BrightWall Technology (Movie)", Angrezi Medium (2020)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Angrezi Medium (2020)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjlkZjBjZmUtNjZjNS00ODlkLWIzODYtODY0NmViN2E0MjIxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="BrightWall Movies", Angrezi Medium (2020)
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Angrezi%20Medium%20%282020%29/Angrezi%20Medium%20%282020%29%20Hindi%20PreDVD%20-%20720p%20-%20x264%20-%20AAC%20-%201.2GB.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Arjun.Patiala.2019.720p" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Arjun_Patiala_poster.jpg/220px-Arjun_Patiala_poster.jpg" group-title="BrightWall Technology (Movie)", Arjun.Patiala.2019.720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Arjun.Patiala.2019.720p" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/Arjun_Patiala_poster.jpg/220px-Arjun_Patiala_poster.jpg" group-title="BrightWall Movies", Arjun.Patiala.2019.720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Arjun%20Patiala%20%282019%29/Arjun.Patiala.2019.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Asur (2020) Bengali Original  1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU4NmY2NDMtODRmMC00NzljLTkwNDMtYThmNTE1OThhZjMwXkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg" group-title="BrightWall Technology (Movie)", Asur (2020) Bengali Original  1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Asur (2020) Bengali Original  1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWU4NmY2NDMtODRmMC00NzljLTkwNDMtYThmNTE1OThhZjMwXkEyXkFqcGdeQXVyODk1NjE0OTk@._V1_.jpg" group-title="BrightWall Movies", Asur (2020) Bengali Original  1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asur%20%282020%29/Asur%20%282020%29%20Bengali%20Original%20%201080p%20ZEE5%20WEB-DL.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Asuraguru (2020) 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzN2UyMzQtNTg1Ni00ZmJkLWE2OWQtZmVlZGJiZGQ5NjVmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg" group-title="BrightWall Technology (Movie)", Asuraguru (2020) 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Asuraguru (2020) 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQzN2UyMzQtNTg1Ni00ZmJkLWE2OWQtZmVlZGJiZGQ5NjVmXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg" group-title="BrightWall Movies", Asuraguru (2020) 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Asuraguru%20%282020%29/Asuraguru%20%282020%29%20720p%20HDrip.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ateet (2020) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYmYxODEtMzQ0NS00NjM5LTg1NDQtYWVhOTJjOWU0NGY0XkEyXkFqcGdeQXVyODI1Nzg1OTQ@._V1_UY1200_CR101,0,630,1200_AL_.jpg" group-title="BrightWall Technology (Movie)", Ateet (2020) Hindi 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ateet (2020) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTlkYmYxODEtMzQ0NS00NjM5LTg1NDQtYWVhOTJjOWU0NGY0XkEyXkFqcGdeQXVyODI1Nzg1OTQ@._V1_UY1200_CR101,0,630,1200_AL_.jpg" group-title="BrightWall Movies", Ateet (2020) Hindi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Ateet%20%282020%29/Ateet%20%282020%29%20Hindi%20720p%20WEB-DL.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAGIC ARCH 3D" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", MAGIC ARCH 3D
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAGIC ARCH 3D" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", MAGIC ARCH 3D
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/Animated/Magic%20Arch%203D%20(2020)%201080p%20WEBDL.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bank Chor 2017 Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzODAzNTM4Ml5BMl5BanBnXkFtZTgwMjQ1NTYyNTM@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="BrightWall Technology (Movie)", Bank Chor 2017 Hindi 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bank Chor 2017 Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUzODAzNTM4Ml5BMl5BanBnXkFtZTgwMjQ1NTYyNTM@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="BrightWall Movies", Bank Chor 2017 Hindi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bank%20Chor%20%282017%29/Bank%20Chor%202017%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubS%20-%20Hon3y.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SUPER OVER" tvg-logo="http://10.16.100.244/files/super_over.jpg" group-title="BrightWall Technology (Movie)", SUPER OVER
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SUPER OVER" tvg-logo="http://10.16.100.244/files/super_over.jpg" group-title="BrightWall Movies", SUPER OVER
 http://10.16.100.206/ftps3/ftps3d2/Movies/South%20Indian/Super%20Over%20(2021)%20Tamil%201080%20WEBDL.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="100 PERCENT WOLF" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" group-title="BrightWall Technology (Movie)", 100 PERCENT WOLF
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="100 PERCENT WOLF" tvg-logo="http://10.16.100.244/files/100_percent_wolf.jpg" group-title="BrightWall Movies", 100 PERCENT WOLF
 http://10.16.100.206/ftps3/ftps3d5/Movies/Animated/100%20Percent%20Wolf%20(2020)%201080p%20WEBRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE DONKEY KING" tvg-logo="http://10.16.100.244/files/the_donkey_king.jpg" group-title="BrightWall Technology (Movie)", THE DONKEY KING
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE DONKEY KING" tvg-logo="http://10.16.100.244/files/the_donkey_king.jpg" group-title="BrightWall Movies", THE DONKEY KING
 http://10.16.100.206/ftps3/ftps3d6/Movies/Animated/The%20Donkey%20King%20(2020)%201080p%20BluRay.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE GREAT INDIAN KITCHEN (ORU KUDAM)" tvg-logo="http://10.16.100.244/files/the_great_indian_kitchen__oru_kudam_.jpg" group-title="BrightWall Technology (Movie)", THE GREAT INDIAN KITCHEN (ORU KUDAM)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="THE GREAT INDIAN KITCHEN (ORU KUDAM)" tvg-logo="http://10.16.100.244/files/the_great_indian_kitchen__oru_kudam_.jpg" group-title="BrightWall Movies", THE GREAT INDIAN KITCHEN (ORU KUDAM)
 http://10.16.100.248/ftps6d3/Movies/South%20Indian/The%20Great%20Indian%20Kitchen%20(Oru%20Kudam)%20(2021)%20Malayam%201080p%20WEBDL.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Barot House (2019) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk0NDFiZjAtZWVmNS00YWQ2LTk5M2QtZmNlZTUyZDdlNDFiXkEyXkFqcGdeQXVyMTA1NDM0Nzk0._V1_.jpg" group-title="BrightWall Technology (Movie)", Barot House (2019) Hindi 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Barot House (2019) Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTk0NDFiZjAtZWVmNS00YWQ2LTk5M2QtZmNlZTUyZDdlNDFiXkEyXkFqcGdeQXVyMTA1NDM0Nzk0._V1_.jpg" group-title="BrightWall Movies", Barot House (2019) Hindi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Barot%20House%20%282019%29/Barot%20House%20%282019%29%20Hindi%20720p%20WebRip%20AAC%20x264%20ESub%20%5BTeam%20DRSD%5D.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bhoot.Part.One.The.Haunted.Ship.2020.1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFlZjA1YzAtMmYwNy00NjQ5LWJkNDUtNzczYjc0NGViNjRjXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_.jpg" group-title="BrightWall Technology (Movie)", Bhoot.Part.One.The.Haunted.Ship.2020.1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bhoot.Part.One.The.Haunted.Ship.2020.1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzFlZjA1YzAtMmYwNy00NjQ5LWJkNDUtNzczYjc0NGViNjRjXkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_.jpg" group-title="BrightWall Movies", Bhoot.Part.One.The.Haunted.Ship.2020.1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bhoot%20Part%20One%20-%20The%20Haunted%20Ship%20%282020%29/Bhoot.Part.One.The.Haunted.Ship.2020.1080p.AMZN.WEB-DL.DD%2B5.1.HEVC-Telly.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAARA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", MAARA
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MAARA" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", MAARA
 http://10.16.100.206/ftps3/ftps3d5/Movies/South%20Indian/Maara%20(2021)%20720p%20HDRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bunker (2020) Hindi Proper WEB-DL - 1080p" tvg-logo="https://i1.wp.com/www.bollywoodcrazies.com/wp-content/uploads/2019/12/IMG-20191219-WA0019.jpg?fit=1280%2C1280&ssl=1" group-title="BrightWall Technology (Movie)", Bunker (2020) Hindi Proper WEB-DL - 1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bunker (2020) Hindi Proper WEB-DL - 1080p" tvg-logo="https://i1.wp.com/www.bollywoodcrazies.com/wp-content/uploads/2019/12/IMG-20191219-WA0019.jpg?fit=1280%2C1280&ssl=1" group-title="BrightWall Movies", Bunker (2020) Hindi Proper WEB-DL - 1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Bunker%20%282020%29/Bunker%20%282020%29%20Hindi%20Proper%20WEB-DL%20-%201080p%20-%20AVC%20-%20AAC%20-%202GB.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Couple 1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg3MDUwMTEtMjNkYi00YjhkLWI1MmUtYzdhZWEzNTkzNDI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="BrightWall Technology (Movie)", Comedy Couple 1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Comedy Couple 1080p" tvg-logo="https://m.media-amazon.com/images/M/MV5BODg3MDUwMTEtMjNkYi00YjhkLWI1MmUtYzdhZWEzNTkzNDI4XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg" group-title="BrightWall Movies", Comedy Couple 1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Comedy%20Couple%20%282020%29/Comedy.Couple.1080p.ZEE5.WEB-DL.AAC2.0.H.264-Telly.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Darbaan.2020.1080p" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2020/darbaan/poster.jpg" group-title="BrightWall Technology (Movie)", Darbaan.2020.1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Darbaan.2020.1080p" tvg-logo="https://cdn.bollywoodmdb.com/movies/largethumb/2020/darbaan/poster.jpg" group-title="BrightWall Movies", Darbaan.2020.1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Darbaan%20%282020%29/Darbaan.2020.1080p.ZEE5.WEB-DL.AAC2.0.H.264-Telly.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BHOOMI" tvg-logo="http://10.16.100.244/files/bhoomi.jpg" group-title="BrightWall Technology (Movie)", BHOOMI
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BHOOMI" tvg-logo="http://10.16.100.244/files/bhoomi.jpg" group-title="BrightWall Movies", BHOOMI
 http://10.16.100.202/ftps10/iccftps10sasd10/Movies/South%20Indian/Bhoomi%20(2021)%201080P%20WEBRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Darbar (2020) 720p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMEkh0oRvPkeFf-nYo6tscV7vkQrUc9BAiA&usqp=CAU" group-title="BrightWall Technology (Movie)", Darbar (2020) 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Darbar (2020) 720p" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkMEkh0oRvPkeFf-nYo6tscV7vkQrUc9BAiA&usqp=CAU" group-title="BrightWall Movies", Darbar (2020) 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Darbar%20%282020%29/Darbar%20%282020%29%20720p%20Hindi%20HDRip%28ORG%20Audio%29%20%20-%20x264%20-AAC%20-%201.5GB%20-%20ESubs%20%5BMOVCR%5D.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Foot Fairy 2020 Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgzMDNkYzQtN2RlMi00MGNlLWJlODUtZjUxNGJhOTM4NDQ0XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg" group-title="BrightWall Technology (Movie)", Foot Fairy 2020 Hindi 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Foot Fairy 2020 Hindi 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzgzMDNkYzQtN2RlMi00MGNlLWJlODUtZjUxNGJhOTM4NDQ0XkEyXkFqcGdeQXVyMTI0MjU5MzUw._V1_.jpg" group-title="BrightWall Movies", Foot Fairy 2020 Hindi 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/FootFairy%20%282020%29/Foot%20Fairy%202020%20Hindi%20720p%20HDTv%20Rip%20AAC%20x264%20-%20LOKiHD%20-%20Telly.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Halal Love Story.2020.720p" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/halal-love-story-et00145467-12-10-2020-03-11-56.jpg" group-title="BrightWall Technology (Movie)", Halal Love Story.2020.720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Halal Love Story.2020.720p" tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/large/halal-love-story-et00145467-12-10-2020-03-11-56.jpg" group-title="BrightWall Movies", Halal Love Story.2020.720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Halal%20Love%20Story%20%282020%29/Halal.Love.Story.2020.720p.AMZN.WEB-DL.DDP5.1.H.264-Telly.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Robibaar (2019) Bengali 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwZjNhNzMtZmYwMi00MzA5LTlmYTUtM2M3YjQ4ZTg3YmY4XkEyXkFqcGdeQXVyNTA1ODE4MzM@._V1_.jpg" group-title="BrightWall Technology (Movie)", Robibaar (2019) Bengali 720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Robibaar (2019) Bengali 720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDkwZjNhNzMtZmYwMi00MzA5LTlmYTUtM2M3YjQ4ZTg3YmY4XkEyXkFqcGdeQXVyNTA1ODE4MzM@._V1_.jpg" group-title="BrightWall Movies", Robibaar (2019) Bengali 720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Robibaar%20%282019%29/Robibaar%20%282019%29%20Bengali%20720p%20Hoichoi%20WEB-DL.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Serious.Men.2020.720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ3MDEwNTEtZTlmZi00MjA2LWExZTYtNmMwNmZkNmI0ZTczXkEyXkFqcGdeQXVyMTE5MDgzMjMx._V1_.jpg" group-title="BrightWall Technology (Movie)", Serious.Men.2020.720p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Serious.Men.2020.720p" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ3MDEwNTEtZTlmZi00MjA2LWExZTYtNmMwNmZkNmI0ZTczXkEyXkFqcGdeQXVyMTE5MDgzMjMx._V1_.jpg" group-title="BrightWall Movies", Serious.Men.2020.720p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Serious%20Men%20%282020%29/Serious.Men.2020.720p.NF.WEB-DL.AAC2.0.x264-BonsaiHD.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Yeh Ballet (2020)1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Yeh Ballet (2020)1080p
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Yeh Ballet (2020)1080p" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Yeh Ballet (2020)1080p
 http://103.222.20.150/ftpdata/Movies/Bollywood/2020/Yeh%20Ballet%20%282020%29/Yeh%20Ballet%20%282020%291080p.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="In the Heart of the Sea" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", In the Heart of the Sea
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="In the Heart of the Sea" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", In the Heart of the Sea
 http://newtube.ps/components/com_contushdvideoshare/videos/3105_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Titanic 1997" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Titanic 1997
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Titanic 1997" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Titanic 1997
 http://46.60.1.83/sdb1/movies/21/titanic_hd_done_cut.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Braveheart 1995" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Braveheart 1995
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Braveheart 1995" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Braveheart 1995
 http://newtube.ps/components/com_contushdvideoshare/videos/1074590400.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Lion King (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", The Lion King (2019)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Lion King (2019)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", The Lion King (2019)
 http://46.60.1.85/storaged/D/hm-7/Movies/Animation/X19/The.Lion.King.2019.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MASTER (AUDIO - TAMIL)" tvg-logo="http://10.16.100.244/files/master__audio___tamil_.jpg" group-title="BrightWall Technology (Movie)", MASTER (AUDIO - TAMIL)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MASTER (AUDIO - TAMIL)" tvg-logo="http://10.16.100.244/files/master__audio___tamil_.jpg" group-title="BrightWall Movies", MASTER (AUDIO - TAMIL)
 http://10.16.100.202/ftps10/iccftps10sasd4/Movies/South%20Indian/Tamil/Master%20(2021)%20Tamil%201080p%20WEBRip.mkv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Arctic Dogs 2019" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Arctic Dogs 2019
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Arctic Dogs 2019" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Arctic Dogs 2019
 http://46.60.1.85/storaged/D/os-7/Movies/Animation/Arctic.Dogs.2019.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Yip Man 3" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Yip Man 3
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Yip Man 3" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Yip Man 3
 http://newtube.ps/components/com_contushdvideoshare/videos/3006_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ip Man 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ip Man 2
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ip Man 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ip Man 2
 http://newtube.ps/components/com_contushdvideoshare/videos/732584700.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Iron Man 2008" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Iron Man 2008
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Iron Man 2008" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Iron Man 2008
 http://newtube.ps/components/com_contushdvideoshare/videos/124_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ong-bak 3" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ong-bak 3
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ong-bak 3" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ong-bak 3
 http://46.60.1.83/sdd1/movies/r/Ong.Bak.3.2010.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ong-bak 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ong-bak 2
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ong-bak 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ong-bak 2
 http://46.60.1.83/sdd1/movies/r/Ong.Bak.2.2008.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ong-bak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ong-bak
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ong-bak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ong-bak
 http://46.60.1.83/sdd1/movies/r/Ong.Bak.2003.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean's Holiday" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Mr. Bean's Holiday
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mr. Bean's Holiday" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Mr. Bean's Holiday
 http://46.60.1.83/sdb1/movies/22/excess-xvid-mbh.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Olympus Has Fallen" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Olympus Has Fallen
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Olympus Has Fallen" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Olympus Has Fallen
 http://newtube.ps/components/com_contushdvideoshare/videos/2050_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Rise of The Planet of the Apes" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Rise of The Planet of the Apes
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Rise of The Planet of the Apes" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Rise of The Planet of the Apes
 http://newtube.ps/components/com_contushdvideoshare/videos/1830_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Riddick" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Riddick
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Riddick" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Riddick
 http://newtube.ps/components/com_contushdvideoshare/videos/2439_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Terminator Salvation" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Terminator Salvation
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Terminator Salvation" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Terminator Salvation
 http://newtube.ps/components/com_contushdvideoshare/videos/2049_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Terminator 3: Rise of the Machines" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Terminator 3: Rise of the Machines
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Terminator 3: Rise of the Machines" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Terminator 3: Rise of the Machines
 http://newtube.ps/components/com_contushdvideoshare/videos/2048_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Terminator 2: Judgment Day" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Terminator 2: Judgment Day
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Terminator 2: Judgment Day" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Terminator 2: Judgment Day
 http://newtube.ps/components/com_contushdvideoshare/videos/2047_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Superman Returns" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Superman Returns
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Superman Returns" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Superman Returns
 http://newtube.ps/components/com_contushdvideoshare/videos/2834_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Terminator" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", The Terminator
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Terminator" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", The Terminator
 http://newtube.ps/components/com_contushdvideoshare/videos/2046_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Johnny English Reborn" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Johnny English Reborn
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Johnny English Reborn" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Johnny English Reborn
 http://46.60.1.83/sdb1/movies/22/Johnny.English.Reborn.2011.720p.BRRip.x264-x0r.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men The Last Stand" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", X-Men The Last Stand
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men The Last Stand" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", X-Men The Last Stand
 http://newtube.ps/components/com_contushdvideoshare/videos/2429_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men Origins Wolverine" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", X-Men Origins Wolverine
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men Origins Wolverine" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", X-Men Origins Wolverine
 http://newtube.ps/components/com_contushdvideoshare/videos/2243_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", X-Men 2
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men 2" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", X-Men 2
 http://newtube.ps/components/com_contushdvideoshare/videos/2428_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", X-Men
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X-Men" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", X-Men
 http://newtube.ps/components/com_contushdvideoshare/videos/2241_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X Men First Class" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", X Men First Class
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="X Men First Class" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", X Men First Class
 http://newtube.ps/components/com_contushdvideoshare/videos/2244_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ocean's Twelve" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ocean's Twelve
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ocean's Twelve" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ocean's Twelve
 http://newtube.ps/components/com_contushdvideoshare/videos/558424839.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ocean's Thirteen" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ocean's Thirteen
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ocean's Thirteen" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ocean's Thirteen
 http://newtube.ps/components/com_contushdvideoshare/videos/327447095.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ocean's Eleven" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Ocean's Eleven
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ocean's Eleven" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Ocean's Eleven
 http://newtube.ps/components/com_contushdvideoshare/videos/1102999380.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry's Giant Adventure (2013)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Tom and Jerry's Giant Adventure (2013)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry's Giant Adventure (2013)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Tom and Jerry's Giant Adventure (2013)
 http://newtube.ps/components/com_contushdvideoshare/videos/624405730.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry: Robin Hood and His Merry Mouse" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Tom and Jerry: Robin Hood and His Merry Mouse
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry: Robin Hood and His Merry Mouse" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Tom and Jerry: Robin Hood and His Merry Mouse
 http://newtube.ps/components/com_contushdvideoshare/videos/1595989675.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2 Fast 2 Furious" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", 2 Fast 2 Furious
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2 Fast 2 Furious" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", 2 Fast 2 Furious
 http://newtube.ps/components/com_contushdvideoshare/videos/1422_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Brothers" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Brothers
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Brothers" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Brothers
 http://46.60.1.39/components/com_contushdvideoshare/videos/2919_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Animatrix" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", The Animatrix
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Animatrix" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", The Animatrix
 http://newtube.ps/components/com_contushdvideoshare/videos/1672337850.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Se7en" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Se7en
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Se7en" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Se7en
 http://newtube.ps/components/com_contushdvideoshare/videos/2097146311.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mystic River" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Mystic River
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Mystic River" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Mystic River
 http://newtube.ps/components/com_contushdvideoshare/videos/220088521.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Now You See Me" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Now You See Me
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Now You See Me" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Now You See Me
 http://newtube.ps/components/com_contushdvideoshare/videos/148_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="No Country for Old Men" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", No Country for Old Men
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="No Country for Old Men" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", No Country for Old Men
 http://newtube.ps/components/com_contushdvideoshare/videos/1194005265.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Point Break" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Point Break
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Point Break" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Point Break
 http://newtube.ps/components/com_contushdvideoshare/videos/2537_video.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Movie)", Pi
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Movies", Pi
 http://newtube.ps/components/com_contushdvideoshare/videos/1325878469.mp4
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="TV6 HD EE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", TV6 HD EE
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/7182/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"24 Ghanta IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6638/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"Aaj Tak IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6567/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"BAND NEWS HD BR
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6160/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"Canal Discovery HD PL
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6102/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"Canal+ HD FR
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6007/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"Comedy Central HD DE
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6081/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"Eleven Sports 2 HD PL
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6082/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"LNK HD LT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6405/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"News18 Bangla IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6639/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"PTC Chak De IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6673/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"PTC News IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6674/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"R.Bharat IN
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6628/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"Re TV LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6406/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"RigaTV 24 LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6410/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"STV LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6407/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV1 HD LT
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6409/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV3 HD LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6412/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV3 Life HD LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6413/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV3 LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6411/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV3 Mini HD LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6414/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV6 HD LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6416/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="tvg-rec=" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", tvg-rec="0"TV6 LV
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6415/index.m3u
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="BrightWall Technology (Channel)", Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bible Explorations" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoLZhDYy0d4JYUcXfMQK_LbexJUaIVK1ON3Q&usqp=CAU" group-title="BrightWall Technology (Channel)", Bible Explorations
-http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CGTV Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="BrightWall Technology (Channel)", CGTV Documentary
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="BrightWall Technology (Channel)", Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="BrightWall Technology (Channel)", CNN International
-http://203.162.235.41:16918/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="BrightWall Technology (Channel)", Desh TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROpcK1HVfbwgS7Iq-dzWqIivEDa5mBQjXUeurhc0Qw52CaFW4k&usqp=CAU" group-title="BrightWall Technology (Channel)", DW
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in_720p/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ekushey TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BrightWall Technology (Channel)", Ekushey TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_X_jxeXi0X7KfXo71ffntwPwikWaO1bfmQw&usqp=CAU" group-title="BrightWall Technology (Channel)", Fox
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Family Movies" tvg-logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png" group-title="BrightWall Technology (Channel)", Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Fox Life HD" tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="BrightWall Technology (Channel)", Fox Life HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="BrightWall Technology (Channel)", HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Madha TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtWLfpCe-J0G4yJ57dgi39n6IWtKYDuO0-dxlweYms-OObRI2s&usqp=CAU" group-title="BrightWall Technology (Channel)", Madha TV
-http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w303457150.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzBCSFMBs6XLSE16sz8vkJI6IgjXWNt_hDHg&usqp=CAU" group-title="BrightWall Technology (Channel)", MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC Action HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRid8POkCIa-DJFcj71DtwJ_7Ylan1ZhfjdxxnmyTTbBU1H41i-&usqp=CAU" group-title="BrightWall Technology (Channel)", MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="MBC Max HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSdOU1MURm3ElUStHv-_h_pA0OC60RWTlH2Rw&usqp=CAU" group-title="BrightWall Technology (Channel)", MBC Max HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="My Cinema" tvg-logo="https://i.ibb.co/9YQzGcW/My-Cinema.jpg" group-title="BrightWall Technology (Channel)", My Cinema
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDeV5WGTJ3YnWvK-wZNPAXencA75lW_Z1nTA&usqp=CAU" group-title="BrightWall Technology (Channel)", Outdoor Channel
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Peace TV English" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", Peace TV English
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Peace TV Urdu" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (Channel)", Peace TV Urdu
-https://api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-MB/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Quran TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu00np5nOI2xV-iZGJXMOOd76PzjaDtURanXLiVMrpsqqeeTvG&usqp=CAU" group-title="BrightWall Technology (Channel)", Quran TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RT Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTezCzYCcD1GWechU-58ZN2NxWZ2RIeR_HzTug3q84ZNY_i0NI&usqp=CAU" group-title="BrightWall Technology (Channel)", RT Documentary
-http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="RTP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBsRDpDOCl8LWSFDqpw6_ljNRPLBYlnlQqqA&usqp=CAU" group-title="BrightWall Technology (Channel)", RTP TV
-http://live4.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w55167431.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Sunna TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTesAId0G7Sdg0JU6ibjbV8Wqjw8beGFm7XtpdKpbkIxrg1acGW&usqp=CAU" group-title="BrightWall Technology (Channel)", Sunna TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?checkedby:hlscat.com
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Warner TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="BrightWall Technology (Channel)", Warner TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="BTV Chottogram" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTO-S_2m91zxm2KECBNAR5rzjoCrxPWVqKQKcsUUwEZ9raUkbq&usqp=CAU" group-title="BrightWall Technology (Channel)", BTV Chottogram
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Devi Maa" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Devi Maa
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Devi Maa" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Devi Maa
 http://ibadat.out.airtime.pro:8000/ibadat_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Ganesha" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Ganesha
-http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Gurbani" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Gurbani
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Gurbani" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Gurbani
 http://gurbani.out.airtime.pro:8000/gurbani_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Guruvar" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Guruvar
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Guruvar" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Guruvar
 http://iskon2b.out.airtime.pro:8000/iskon2b_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Krishna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Krishna
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Krishna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Krishna
 http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Shiva" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Shiva
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Shiva" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Shiva
 http://hot.out.airtime.pro:8000/hot_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Shri Ram" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", 2B! Radio Sangam Shri Ram
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="2B! Radio Sangam Shri Ram" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", 2B! Radio Sangam Shri Ram
 http://dard.out.airtime.pro:8000/dard_a
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", ABC Radio(89.2)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="ABC Radio(89.2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", ABC Radio(89.2)
 http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla Wadio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Bangla Wadio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bangla Wadio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Bangla Wadio
 http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big 95 FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Big 95 FM
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big 95 FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Big 95 FM
 https://radioindia.net/radio/sc-bb/icecast.audio
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Big FM
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Big FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Big FM
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bollywood Punjabi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Bollywood Punjabi Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Bollywood Punjabi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Bollywood Punjabi Radio
 http://stream.zeno.fm/1k0y9f0cm0quv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colours FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Colours FM
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Colours FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Colours FM
 http://45.64.135.88:8000/stream1
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Dhaka FM
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Dhaka FM
 http://118.179.219.244:8000/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Dhaka FM (90.4)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dhaka FM (90.4)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Dhaka FM (90.4)
 http://118.179.219.244:8000/;stream.mp3?@IPTVSoltuion
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FnF.FM Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", FnF.FM Bangla
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="FnF.FM Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", FnF.FM Bangla
 http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Harman Radio Australia" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Harman Radio Australia
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Harman Radio Australia" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Harman Radio Australia
 http://harmanradio.net:8000/main_48.mp3
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jagoo FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Jagoo FM
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jagoo FM" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Jagoo FM
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jesus Alive Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Jesus Alive Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Jesus Alive Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Jesus Alive Radio
 http://stream.zenolive.com/qyb8s75nsceuv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Non Stop Hindi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Non Stop Hindi Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Non Stop Hindi Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Non Stop Hindi Radio
 http://198.178.123.14:8216/;
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio
 https://www.radiomirchi.com/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio 5" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio 5
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio 5" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio 5
 http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio ABC" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio ABC
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio ABC" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio ABC
 http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Abiram" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Abiram
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Abiram" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Abiram
 https://radioabiram.radioca.st/stream?listening-from-radio-garden=1601015157404
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Apna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Apna
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Apna" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Apna
 http://ca.rcast.net:8048/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio BollyFm" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio BollyFm
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio BollyFm" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio BollyFm
 http://stream.radiobollyfm.in:8201/hd?t=1526570335
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio City" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio City
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio City" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio City
 http://prclive1.listenon.in:9302/;
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio City (india) - Hindi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio City (india) - Hindi
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio City (india) - Hindi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio City (india) - Hindi
 http://prclive1.listenon.in:9960/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio city Dance" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio city Dance
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio city Dance" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio city Dance
 http://prclive1.listenon.in:8994
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio City Smaran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio City Smaran
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio City Smaran" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio City Smaran
 http://prclive1.listenon.in:9950/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Foorti (88.0)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Foorti (88.0)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Foorti (88.0)
 http://119.148.23.88:1021/;?@IPTVSoltuion
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Goongoon
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Goongoon" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Goongoon
 http://live.radiogoongoon.com:8888/stream/1/
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Hindi International" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Hindi International
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Hindi International" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Hindi International
 http://radio.bongonet.net:8012/rhi
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Ishara" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Ishara
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Ishara" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Ishara
 http://nickerie.webhop.net:8000/;stream.mp3
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi
 http://peridot.streamguys.com:7150/Mirchi
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - 90s Hit Songs" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - 90s Hit Songs
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - 90s Hit Songs" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - 90s Hit Songs
 https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Club Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Club Mirchi
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Club Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - Club Mirchi
 https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Devraag" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Devraag
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Devraag" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - Devraag
 https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Drive Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Drive Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Drive Radio" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - Drive Radio
 https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Filmy Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Filmy Mirchi
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Filmy Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - Filmy Mirchi
 https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Indies" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Indies
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Indies" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - Indies
 https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - meethi Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - meethi Mirchi
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - meethi Mirchi" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="FM Radio", Radio Mirchi - meethi Mirchi
 https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Mirchi Top 20" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Mirchi Top 20
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Mirchi Top 20" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Mirchi - Mirchi Top 20
 https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Mirchi Unplugged" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Mirchi Unplugged
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Mirchi Unplugged" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Mirchi - Mirchi Unplugged
 https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Pehla Nasha" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Mirchi - Pehla Nasha
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Mirchi - Pehla Nasha" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Mirchi - Pehla Nasha
 https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Sadhin
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Sadhin" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Sadhin
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Sai Global Harmony Bhajan" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Sai Global Harmony Bhajan
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Sai Global Harmony Bhajan" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Sai Global Harmony Bhajan
 http://stream.radiosai.net:8000
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Schizoid - Chillout / Ambient
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Chillout / Ambient" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Schizoid - Chillout / Ambient
 http://94.130.113.214:8000/chill
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Schizoid - Dub Techno
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Dub Techno" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Schizoid - Dub Techno
 http://94.130.113.214:8000/dubtechno
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Schizoid - Progressive Psychedelic Trance
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Schizoid - Progressive Psychedelic Trance" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Schizoid - Progressive Psychedelic Trance
 http://94.130.113.214:8000/prog
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Radio Today
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Today" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Radio Today
 http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" group-title="BrightWall Technology (FM Radio)", Radio Today(89.6)
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Radio Today(89.6)" group-title="FM Radio", Radio Today(89.6)
 http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", SaRaHa
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="SaRaHa" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", SaRaHa
 http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Suno FM 102.
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Suno FM 102." tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Suno FM 102.
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Buddhist Online Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", The Buddhist Online Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="The Buddhist Online Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", The Buddhist Online Radio
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
-#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="BrightWall Technology (FM Radio)", Ujala Radio
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Ujala Radio" tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="FM Radio", Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
