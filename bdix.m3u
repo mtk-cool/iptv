@@ -1,30 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="* All 20032021",MAASRANGA TV HD
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",MAASRANGA TV HD
 NFUzTXQ1eWNyNVdkb04yTHRGV1p5UjNjdU0zY2gxMkxKUkZVdWhHVXBGV00xY1ZZMEoxVmhOblJrMUdNVUIxTU9aVlpYWlVSVU5rU0ZwVlRXZDBZMlpXZU5wWFN4NGtlbEJUVnc4RVZhbEVlWGxsTTVZa1k2WlVaaDlXUmtkV1FVNWtOUnAzWlNaVFZFbDBSUFZFUk5sSE81NUVlNGtXVDVVVlJpQm5VM2dWZU4xV2IyWVZOajlTTTBRak90OTJZdVFtWXZkV1lxNUNldzFXWjA5eUw2TUhjMFJIYQ==
-
-
-#EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png" group-title="* All 20032021",Srishty TV
-http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Thrill (480p)
-PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",9XM (480p)
-PWdUZHowbUw0VkdadWwyTHMxMmNwNVNUWWx6TE5oVk92WUhkdHNHY2k5Q2RsNW1MMDUyYnlaR1oxOUdiajV5YWhKR2N6VlRad1JEYzRFbk1rOXlMNk1IYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",DD Sports (576p)
-PT1BTzFOVGJ1Z1haazVXYXZreVVVSjFUUU5GUkVoQ2JsNW1iaGgyUXZVbWRweDBMelJuY3ZCM2NrUjJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
-
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Mastiii (576p)
-PWdUZHowbUw0VkdadWwyTHBrR2EwTlhZTmhDYmw1bWJoaDJRdlVtZHB4MExwaEdkekZXYnZRbmJsUm5idk4wTDFnakx3WVRNdWtUT3g0eU13RXpMdm9EYzBSSGE=
-
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Mastiii
-PT1BTzFOVGJ1Z1haazVXYXZrU013Z1NiaFZtYzBOMUxwa0dhME5YWU5oQ2JsNW1iaGgyUXZVbWRweDBMcGhHZHpGV2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
-
-#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",EBS KIDS
-PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
-
 
 #EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",ATN Bangla
 PT1BTzFOVGJ1RUdibjVXWWk1R2RoOXljc2gyTDVFakx6TVRNdVVETXk0eU13RXpMdm9EYzBSSGE=
@@ -244,6 +221,28 @@ PWdUZHowbUxreDJibk5YZHNCbmN2OG1ka2wyTHQ5Mll1NDJicFJYZHM5MmMyUlhhMHhXZHQ1aWJwZFdh
 
 #EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",R Plus News
 PT1BTzFOVGJ1UTNjcHhXZWh4R2N2TVhkc0JuY3ZNWGRzQm5jdk1YZHQwV1lsSkhkelJuY2gxMmN2OFdaa2xtZHUwV1lsSkhkelJuY2gxMmN1NEdaajl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="http://www.sristytv.com/uploads/logo_image/logo_43.png" group-title="BDIX",Srishty TV
+http://tempe.jagobd.com:1932/iptv/sristytv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Thrill (480p)
+PT1BTzFOVGJ1Z1haazVXYXZRek16OXljdmNYWjVJM2R4OVNNMTR5TTQ0aU55RWpMMVF6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",9XM (480p)
+PWdUZHowbUw0VkdadWwyTHMxMmNwNVNUWWx6TE5oVk92WUhkdHNHY2k5Q2RsNW1MMDUyYnlaR1oxOUdiajV5YWhKR2N6VlRad1JEYzRFbk1rOXlMNk1IYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",DD Sports (576p)
+PT1BTzFOVGJ1Z1haazVXYXZreVVVSjFUUU5GUkVoQ2JsNW1iaGgyUXZVbWRweDBMelJuY3ZCM2NrUjJMMDVXWjA1MmJEOUNOMUlqTHhZVE11a1RPeDR5TXdFekx2b0RjMFJIYQ==
+
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Mastiii (576p)
+PWdUZHowbUw0VkdadWwyTHBrR2EwTlhZTmhDYmw1bWJoaDJRdlVtZHB4MExwaEdkekZXYnZRbmJsUm5idk4wTDFnakx3WVRNdWtUT3g0eU13RXpMdm9EYzBSSGE=
+
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Mastiii
+PT1BTzFOVGJ1Z1haazVXYXZrU013Z1NiaFZtYzBOMUxwa0dhME5YWU5oQ2JsNW1iaGgyUXZVbWRweDBMcGhHZHpGV2J2UW5ibFJuYnZOMEwxZ2pMd1lUTXVrVE94NHlNd0V6THZvRGMwUkhh
+
+#EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",EBS KIDS
+PT1BTzFOVGJ1UTNjcHhXZWh4R2N2c0dNd1VEZGx4bVloUjNMckJETTFRWFpzSldZMFYzY2lWMkwxTVRPeG9qY3I1eWJqNXljaVZtTHlsV1l1OTJjaVYyTHZvRGMwUkhh
+
 
 #EXTINF:-1 tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="BDIX",Express News
 NFUzTXQ1eU40WVRPNGt6TjNnemRmUjNjcHgyYXVWSGFqOXljM1ZtYnpOWFp5QkhlbDl5YzNWbWJ6TlhaeUJIZWw5U056a1RNNlFXZHZ4Mll1TVhlejkyWnZ4bUx3TldiaFZtYzBOM0x2b0RjMFJIYQ==
