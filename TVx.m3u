@@ -97,6 +97,8 @@ http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladeshi", DBC NEWS HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="DBC NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="Bangladeshi", DBC NEWS
+http://103.205.133.21/hls/dbcnews.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/দীপ্ত_টিভি_লোগো_২.jpg" group-title="Bangladeshi", Deepto TV
 http://209.126.120.153:80/hls/deeptotv.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/be/?????_????_????_?.jpg" group-title="Bangladeshi", Deepto TV HD
