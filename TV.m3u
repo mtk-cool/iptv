@@ -444,7 +444,7 @@ http://43.230.123.21:8080/live/starsportsselect-2.m3u8
 http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1 -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" group-title="Sports-Live",Ptv Sports
 http://43.230.123.21:8080/live/ptvsports.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,PTV Sports SD
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuY1FfH8Si2SPvu9Hw4LNliLdeBVyYs6kW6jY9Hy6iMfY3D-34&usqp=CAU" ,PTV Sports SD
 http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 -1 tvg-logo="https://w7.pngwing.com/pngs/778/496/png-transparent-willow-television-channel-cricket-streaming-media-cricket-television-sport-sports.png" group-title="Sports-Live",Willow cricket
@@ -468,47 +468,47 @@ http://43.230.123.21:8080/live/bein-sports-2.m3u8
 http://43.230.123.21:8080/live/bein-sports-eng-11.m3u8
 
 
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein premium 1
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein premium 1
 http://1.alhawalouh.xyz/live/6161655/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein premium 2
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein premium 2
 http://2.alhawalouh.xyz/live/616194987/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein premium 3
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein premium 3
 http://3.alhawalouh.xyz/live/6151278887/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 1
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 1
 http://2.alhawalouh.xyz/live/918454578/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 2
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 2
 http://1.alhawalouh.xyz/live/69854211/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 3
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 3
 http://3.alhawalouh.xyz/live/645587700/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 4
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 4
 http://1.alhawalouh.xyz/live/9787488847/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 5
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 5
 http://1.alhawalouh.xyz/live/610303030/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 6
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 6
 http://2.alhawalouh.xyz/live/1515000000/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein sports 7
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein sports 7
 http://3.alhawalouh.xyz/live/791001144/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein xtra 1
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein xtra 1
 http://1.alhawalouh.xyz/live/9962564400/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein xtra 2
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein xtra 2
 http://1.alhawalouh.xyz/live/880025552/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein french 1
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein french 1
 http://1.adrawayoun.xyz/live/103/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein french 2
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein french 2
 http://1.adrawayoun.xyz/live/104/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bein french 3
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bein french 3
 http://1.adrawayoun.xyz/live/105/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bt sports 1
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bt sports 1
 http://1.adrawayoun.xyz/live/143/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bt sports 2
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bt sports 2
 http://1.adrawayoun.xyz/live/144/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,bt sports 3
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,bt sports 3
 http://1.adrawayoun.xyz/live/145/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,premier sports
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,premier sports
 http://1.adrawayoun.xyz/live/148/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,canal+ sports
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,canal+ sports
 http://1.adrawayoun.xyz/live/117/index.m3u8
-#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/195px-PTV_Sports.png" ,ziggo select
+#EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in"  tvg-logo="http://media.filgoal.com/news/medium/168339354.jpg" ,ziggo select
 http://1.adrawayoun.xyz/live/150/index.m3u8
 #EXTINF:-1  group-title="Sports-Live" tvg-id="StarSportsHD1.in" tvg-name="PTV Sports" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" ,Abu Dhabi Sports 1
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
